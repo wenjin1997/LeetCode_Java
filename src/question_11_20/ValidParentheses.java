@@ -1,4 +1,4 @@
-package question_11_20.question_20;
+package question_11_20;
 
 import java.util.Stack;
 
@@ -7,7 +7,7 @@ import java.util.Stack;
  * @version 1.0
  * 20.有效的括号
  */
-class Solution {
+class ValidParentheses {
     public boolean isValid(String s) {
         Stack<Character> parent = new Stack<>(); // 左括号栈
 
@@ -40,7 +40,7 @@ class Solution {
 
     public static void main(String[] args) {
         String s = "()[}";
-        Solution solution = new Solution();
-        System.out.println(solution.isValid(s));
+        ValidParentheses validParentheses = new ValidParentheses();
+        System.out.println(validParentheses.isValid(s));
     }
 }
