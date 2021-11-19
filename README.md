@@ -16,3 +16,4 @@
 |⭐️|[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[删除链表中的节点](/note/231-240/237.md)|[DeleteNodeInALinkedList.java](/src/question_231_240/DeleteNodeInALinkedList.java)|简单|链表|
 |⭐️|[876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[链表的中间结点](/note/871-880/876.md)|[MiddleOfTheLinkedList.java](/src/question_871_880/MiddleOfTheLinkedList.java)|简单|链表、双指针|
 |✅|[1991](https://leetcode.com/problems/find-the-middle-index-in-array/)|[Find the Middle Index in Array](/note/1991-2000/1991.md)| |Easy|Array,Prefix Sum|
+|⭐️⭐️|[面试题17-14](https://leetcode-cn.com/problems/smallest-k-lcci/)|[最小K个数](/note/面试题17/面试题17-14.最小K个数.md)|[N14_SmallestKLCCI.java](/src/面试题17/N14_SmallestKLCCI.java)|中等|数组、分治、快速选择、排序、堆（优先队列）|
