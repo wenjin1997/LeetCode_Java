@@ -15,7 +15,13 @@
 |⭐️|[225](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[用队列实现栈](/note/221-230/225.md)|[MyStack.java](/src/question_221_230/MyStack.java)|简单|栈、设计、队列|
 |✅️️|[232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[用栈实现队列](/note/231-240/232.md)|[MyQueue.java](/src/question_231_240/MyQueue.java)|简单|栈、设计、队列|
 |⭐️|[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[删除链表中的节点](/note/231-240/237.md)|[DeleteNodeInALinkedList.java](/src/question_231_240/DeleteNodeInALinkedList.java)|简单|链表|
+|✅️|[278](https://leetcode-cn.com/problems/first-bad-version/)|第一个错误的版本|[N278_FirstBadVersion.java](/src/question_1_500/N278_FirstBadVersion.java)|简单|二分查找、交互|
 |✅️|[704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](/note/501-1000/704.md)|[N704_BinarySearch.java](/src/question_501_1000/N704_BinarySearch.java)|简单|数组、二分查找|
 |⭐️|[876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[链表的中间结点](/note/871-880/876.md)|[MiddleOfTheLinkedList.java](/src/question_871_880/MiddleOfTheLinkedList.java)|简单|链表、双指针|
 |✅|[1991](https://leetcode.com/problems/find-the-middle-index-in-array/)|[Find the Middle Index in Array](/note/1991-2000/1991.md)| |Easy|Array,Prefix Sum|
 |⭐️⭐️|[面试题17-14](https://leetcode-cn.com/problems/smallest-k-lcci/)|[最小K个数](/note/面试题17/面试题17-14.最小K个数.md)|[N14_SmallestKLCCI.java](/src/面试题17/N14_SmallestKLCCI.java)|中等|数组、分治、快速选择、排序、堆（优先队列）|
+
+# 二分查找
+|🚩|#|题目|🚩|#|题目|
+|----|----|----|----|----|----|
+|✅|278|[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)|✅|704|[二分查找](https://leetcode-cn.com/problems/binary-search/)|
