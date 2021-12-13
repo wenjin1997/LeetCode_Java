@@ -14,6 +14,7 @@
 |⭐️|[206](https://leetcode-cn.com/problems/reverse-linked-list/)|[反转链表](/note/201-210/206.md)|[ReverseLinkedList.java](/src/question_201_210/ReverseLinkedList.java)|简单|链表、递归|
 |⭐️|[225](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[用队列实现栈](/note/221-230/225.md)|[MyStack.java](/src/question_221_230/MyStack.java)|简单|栈、设计、队列|
 |✅️️|[232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[用栈实现队列](/note/231-240/232.md)|[MyQueue.java](/src/question_231_240/MyQueue.java)|简单|栈、设计、队列|
+|⭐️|[234](https://leetcode-cn.com/problems/palindrome-linked-list/)|回文链表|[N234_PalindromeLinkedList.java](/src/question_1_500/N234_PalindromeLinkedList.java)|简单|栈、递归、链表、双指针|
 |⭐️|[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[删除链表中的节点](/note/231-240/237.md)|[DeleteNodeInALinkedList.java](/src/question_231_240/DeleteNodeInALinkedList.java)|简单|链表|
 |⭐️|[238](https://leetcode-cn.com/problems/product-of-array-except-self/)|除自身以外数组的乘积|[N238_ProductOfArrayExceptSelf.java](/src/question_1_500/N238_ProductOfArrayExceptSelf.java)|中等|数组、前缀和|
 |✅️|[278](https://leetcode-cn.com/problems/first-bad-version/)|第一个错误的版本|[N278_FirstBadVersion.java](/src/question_1_500/N278_FirstBadVersion.java)|简单|二分查找、交互|
