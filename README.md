@@ -9,6 +9,7 @@
 |⭐️|[27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](/note/21-30/27.md)|[RemoveElement.java](/src/question_21_30/RemoveElement.java)|简单|数组、双指针|
 |⭐⭐|[75](https://leetcode-cn.com/problems/sort-colors/)|[颜色分类](/note/31-80/75.md)|[N75_SortColors.java](/src/question_31_80/N75_SortColors.java)|中等|数组、双指针、排序|
 |✅️|[83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[删除排序链表中的重复元素](/note/81-90/83.md)|[RemoveDuplicatesFromSortedList.java](/src/question_81_90/RemoveDuplicatesFromSortedList.java)|简单|链表|
+|⭐️|[118](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|[N118_PascalTriangle.java](/src/question_1_500/N118_PascalTriangle.java)|简单|数组、动态规划|
 |⭐️|[155](https://leetcode-cn.com/problems/min-stack/)|[最小栈](/note/151-160/155.md)|[MinStack.java](/src/question_151_160/MinStack.java)|简单|栈、设计|
 |⭐️|[203](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[移除链表元素](/note/201-210/203.md)|[ListNode.java](/src/question_201_210/ListNode.java)、[RemoveLinkedListElements.java](/src/question_201_210/RemoveLinkedListElements.java)|简单|链表、递归|
 |⭐️|[206](https://leetcode-cn.com/problems/reverse-linked-list/)|[反转链表](/note/201-210/206.md)|[ReverseLinkedList.java](/src/question_201_210/ReverseLinkedList.java)|简单|链表、递归|
