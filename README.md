@@ -20,6 +20,7 @@
 |⭐️|[238](https://leetcode-cn.com/problems/product-of-array-except-self/)|除自身以外数组的乘积|[N238_ProductOfArrayExceptSelf.java](/src/question_1_500/N238_ProductOfArrayExceptSelf.java)|中等|数组、前缀和|
 |⭐️|[242](https://leetcode-cn.com/problems/valid-anagram/)|[有效的字母异位词](/note/1-500/242.md)|[N242_ValidAnagram.java](/src/question_1_500/N242_ValidAnagram.java)|简单|哈希表、字符串、排序|
 |✅️|[278](https://leetcode-cn.com/problems/first-bad-version/)|第一个错误的版本|[N278_FirstBadVersion.java](/src/question_1_500/N278_FirstBadVersion.java)|简单|二分查找、交互|
+|⭐️|[303](https://leetcode-cn.com/problems/range-sum-query-immutable/)|区域和检索-数组不可变|[N303_RangeSumQuery_Immutable.java](/src/N303_RangeSumQuery_Immutable.java)|简单|设计、数组、前缀和|
 |✅️|[704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](/note/501-1000/704.md)|[N704_BinarySearch.java](/src/question_501_1000/N704_BinarySearch.java)|简单|数组、二分查找|
 |⭐️|[876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[链表的中间结点](/note/871-880/876.md)|[MiddleOfTheLinkedList.java](/src/question_871_880/MiddleOfTheLinkedList.java)|简单|链表、双指针|
 |✅|[1991](https://leetcode.com/problems/find-the-middle-index-in-array/)|[Find the Middle Index in Array](/note/1991-2000/1991.md)| |Easy|Array,Prefix Sum|
