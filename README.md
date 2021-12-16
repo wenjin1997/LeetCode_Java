@@ -25,6 +25,7 @@
 |⭐️⭐⭐|[560](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[和为K的子数组](note/560.md)|[N560_SubarraySumEqualsK.java](/src/N560_SubarraySumEqualsK.java)|中等|数组、哈希表、前缀和|
 |✅️|[704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](/note/501-1000/704.md)|[N704_BinarySearch.java](/src/question_501_1000/N704_BinarySearch.java)|简单|数组、二分查找|
 |⭐️|[876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[链表的中间结点](/note/871-880/876.md)|[MiddleOfTheLinkedList.java](/src/question_871_880/MiddleOfTheLinkedList.java)|简单|链表、双指针|
+|⭐️|[1109](https://leetcode-cn.com/problems/corporate-flight-bookings/)|航班预订统计|[N1109_CorporateFlightBookings.java](/src/N1109_CorporateFlightBookings.java)|中等|数组、前缀和|
 |✅|[1991](https://leetcode.com/problems/find-the-middle-index-in-array/)|[Find the Middle Index in Array](/note/1991-2000/1991.md)| |Easy|Array,Prefix Sum|
 |⭐️⭐️|[面试题17-14](https://leetcode-cn.com/problems/smallest-k-lcci/)|[最小K个数](/note/面试题17/面试题17-14.最小K个数.md)|[N14_SmallestKLCCI.java](/src/面试题17/N14_SmallestKLCCI.java)|中等|数组、分治、快速选择、排序、堆（优先队列）|
 
