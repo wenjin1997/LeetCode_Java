@@ -8,6 +8,7 @@
 |⭐️|[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[删除有序数组中的重复项](/note/21-30/26.md)|[RemoveDuplicatesFromSortedArray.java](/src/question_21_30/RemoveDuplicatesFromSortedArray.java)|简单|数组、双指针|
 |⭐️|[27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](/note/21-30/27.md)|[RemoveElement.java](/src/question_21_30/RemoveElement.java)|简单|数组、双指针|
 |⭐⭐|[75](https://leetcode-cn.com/problems/sort-colors/)|[颜色分类](/note/31-80/75.md)|[N75_SortColors.java](/src/question_31_80/N75_SortColors.java)|中等|数组、双指针、排序|
+|⭐⭐⭐⭐⭐️|[76](https://leetcode-cn.com/problems/minimum-window-substring/)|最小覆盖子串|[N76_MinimumWindowSubstring.java](/src/N76_MinimumWindowSubstring.java)|困难|哈希表、字符串、滑动窗口|
 |✅️|[83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[删除排序链表中的重复元素](/note/81-90/83.md)|[RemoveDuplicatesFromSortedList.java](/src/question_81_90/RemoveDuplicatesFromSortedList.java)|简单|链表|
 |⭐️|[118](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|[N118_PascalTriangle.java](/src/question_1_500/N118_PascalTriangle.java)|简单|数组、动态规划|
 |⭐️|[155](https://leetcode-cn.com/problems/min-stack/)|[最小栈](/note/151-160/155.md)|[MinStack.java](/src/question_151_160/MinStack.java)|简单|栈、设计|
