@@ -25,6 +25,7 @@
 |⭐️|[304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|二维区域和检索-矩阵不可变|[N304_RangeSumQuery2D_Immutable.java](/src/N304_RangeSumQuery2D_Immutable.java)|中等|设计、数组、矩阵、前缀和|
 |⭐️|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集II|[N350_IntersectionOfTwoArraysII.java](/src/N350_IntersectionOfTwoArraysII.java)|简单|数组、哈希表、双指针、二分查找、排序|
 |⭐️⭐⭐|[560](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[和为K的子数组](note/560.md)|[N560_SubarraySumEqualsK.java](/src/N560_SubarraySumEqualsK.java)|中等|数组、哈希表、前缀和|
+|⭐️⭐⭐⭐⭐|[567](https://leetcode-cn.com/problems/permutation-in-string/)|字符串的排列|[N567_PermutationInString.java](/src/N567_PermutationInString.java)|中等|哈希表、双指针、字符串、滑动窗口|
 |✅️|[704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](/note/501-1000/704.md)|[N704_BinarySearch.java](/src/question_501_1000/N704_BinarySearch.java)|简单|数组、二分查找|
 |⭐️|[876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[链表的中间结点](/note/871-880/876.md)|[MiddleOfTheLinkedList.java](/src/question_871_880/MiddleOfTheLinkedList.java)|简单|链表、双指针|
 |⭐️|[1094](https://leetcode-cn.com/problems/car-pooling/)|拼车|[N1094_CarPooling.java](/src/N1094_CarPooling.java)|中等|数组、前缀和、排序、模拟、堆(优先队列)|
