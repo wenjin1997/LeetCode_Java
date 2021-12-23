@@ -7,6 +7,7 @@
 |⭐⭐|[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|删除链表的倒数第N个结点|[N19_Solution.java](/src/N19_Solution.java)|中等|链表、双指针|
 |✅|[20](https://leetcode-cn.com/problems/valid-parentheses/)|[有效的括号](/note/11-20/20.md)|[N20](/src/question_11_20/ValidParentheses.java)|简单|栈、字符串|
 |⭐️|[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](/note/21-30/21.md)|[N21](/src/question_21_30/MergeTwoSortedLists.java)、[ListNode.java](/src/question_21_30/ListNode.java)|简单|链表、递归|
+|🚩️|[23](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|合并K个升序链表|[N23](/src/N23_Solution.java)|困难|链表、分治、堆(优先队列)、归并排序|
 |⭐️|[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[删除有序数组中的重复项](/note/21-30/26.md)|[N26](/src/question_21_30/RemoveDuplicatesFromSortedArray.java)|简单|数组、双指针|
 |⭐️|[27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](/note/21-30/27.md)|[RemoveElement.java](/src/question_21_30/RemoveElement.java)|简单|数组、双指针|
 |⭐⭐|[75](https://leetcode-cn.com/problems/sort-colors/)|[颜色分类](/note/31-80/75.md)|[N75_SortColors.java](/src/question_31_80/N75_SortColors.java)|中等|数组、双指针、排序|
