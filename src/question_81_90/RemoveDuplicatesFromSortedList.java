@@ -30,6 +30,23 @@ public class RemoveDuplicatesFromSortedList {
         return dummyHead.next;
     }
 
+
+    // 方法二：参考算法小抄，快慢指针法
+    public ListNode deleteDuplicates2(ListNode head) {
+        if (head == null) return null;
+        ListNode slow = head, fast = head;
+        while (fast != null) {
+            if (fast.val != slow.val) {
+                slow.next = fast;
+                slow = slow.next;
+            }
+            fast = fast.next;
+        }
+        // 断开与后面重复元素的链接
+        slow.next = null;
+        return head;
+    }
+
     public static void main(String[] args) {
         RemoveDuplicatesFromSortedList s = new RemoveDuplicatesFromSortedList();
         ListNode head = new ListNode(7, new ListNode(7, new ListNode(8)));
