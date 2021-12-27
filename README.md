@@ -25,6 +25,7 @@
 |⭐️|[238](https://leetcode-cn.com/problems/product-of-array-except-self/)|除自身以外数组的乘积|[N238](/src/question_1_500/N238_ProductOfArrayExceptSelf.java)|中等|数组、前缀和|
 |⭐️|[242](https://leetcode-cn.com/problems/valid-anagram/)|[有效的字母异位词](/note/1-500/242.md)|[N242](/src/question_1_500/N242_ValidAnagram.java)|简单|哈希表、字符串、排序|
 |✅️|[278](https://leetcode-cn.com/problems/first-bad-version/)|第一个错误的版本|[N278](/src/question_1_500/N278_FirstBadVersion.java)|简单|二分查找、交互|
+|⭐|[283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|[N283](/src/N283_Solution.java)|简单|数组、双指针|
 |⭐️|[303](https://leetcode-cn.com/problems/range-sum-query-immutable/)|区域和检索-数组不可变|[N303](/src/N303_RangeSumQuery_Immutable.java)|简单|设计、数组、前缀和|
 |⭐️|[304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|二维区域和检索-矩阵不可变|[N304](/src/N304_RangeSumQuery2D_Immutable.java)|中等|设计、数组、矩阵、前缀和|
 |⭐️|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集II|[N350](/src/N350_IntersectionOfTwoArraysII.java)|简单|数组、哈希表、双指针、二分查找、排序|
