@@ -37,6 +37,7 @@
 |☹️️|[870](https://leetcode-cn.com/problems/advantage-shuffle/)|优势洗牌|[N870](/src/N870_Solution.java)|😐|贪心、数组、排序|
 |😀️⭐|[875](https://leetcode-cn.com/problems/koko-eating-bananas/)|爱吃香蕉的珂珂|[N875](/src/N875_Solution.java)|😐|数组、二分查找|
 |⭐️|[876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[链表的中间结点](/note/871-880/876.md)|[N876](/src/question_871_880/MiddleOfTheLinkedList.java)|简单|链表、双指针|
+|☹️|[933](https://leetcode-cn.com/problems/number-of-recent-calls/)|最近的请求次数|[N933](/src/N933_Solution.java)|😀|设计、队列、数据流|
 |☹️️|[1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|在D天内送达包裹的能力|[N1011](/src/N1011_Solution.java)|中等|贪心、数组、二分查找|
 |⭐️|[1094](https://leetcode-cn.com/problems/car-pooling/)|拼车|[N1094](/src/N1094_CarPooling.java)|中等|数组、前缀和、排序、模拟、堆(优先队列)|
 |⭐️|[1109](https://leetcode-cn.com/problems/corporate-flight-bookings/)|航班预订统计|[N1109](/src/N1109_CorporateFlightBookings.java)|中等|数组、前缀和|
