@@ -20,6 +20,7 @@
 |⭐️|[203](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[移除链表元素](/note/201-210/203.md)|[ListNode](/src/question_201_210/ListNode.java)、[N203](/src/question_201_210/RemoveLinkedListElements.java)|简单|链表、递归|
 |⭐️|[206](https://leetcode-cn.com/problems/reverse-linked-list/)|[反转链表](/note/201-210/206.md)|[N206](/src/question_201_210/ReverseLinkedList.java)|简单|链表、递归|
 |⭐️|[225](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[用队列实现栈](/note/221-230/225.md)|[MyStack](/src/question_221_230/MyStack.java)|简单|栈、设计、队列|
+|🚩️|[226](https://leetcode-cn.com/problems/invert-binary-tree/)|翻转二叉树|[N226](/src/N226_Solution.java)|简单|树、深度优先搜索、广度优先搜索、二叉树|
 |✅️️|[232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[用栈实现队列](/note/231-240/232.md)|[MyQueue](/src/question_231_240/MyQueue.java)|简单|栈、设计、队列|
 |⭐️|[234](https://leetcode-cn.com/problems/palindrome-linked-list/)|回文链表|[N234](/src/question_1_500/N234_PalindromeLinkedList.java)|简单|栈、递归、链表、双指针|
 |⭐️|[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[删除链表中的节点](/note/231-240/237.md)|[N237](/src/question_231_240/DeleteNodeInALinkedList.java)|简单|链表|
