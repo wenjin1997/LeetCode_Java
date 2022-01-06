@@ -17,6 +17,7 @@
 |⭐️|[104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|二叉树的最大深度|[N104](/src/N104_Solution.java)|简单|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐|[116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|填充每个节点的下一个右侧节点指针|[N116](/src/N116_Solution.java)|中等|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[118](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|[N118](/src/question_1_500/N118_PascalTriangle.java)|简单|数组、动态规划|
+|⭐️|[144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|二叉树的前序遍历|[N144](/src/N144_Solution.java)|简单|栈、树、深度优先搜索、二叉树|
 |⭐️|[155](https://leetcode-cn.com/problems/min-stack/)|[最小栈](/note/151-160/155.md)|[MinStack](/src/question_151_160/MinStack.java)|简单|栈、设计|
 |⭐️|[189](https://leetcode-cn.com/problems/rotate-array/)|轮转数组|[189](/src/N189_Solution.java)|😐|数组、数学、双指针|
 |⭐️|[203](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[移除链表元素](/note/201-210/203.md)|[ListNode](/src/question_201_210/ListNode.java)、[N203](/src/question_201_210/RemoveLinkedListElements.java)|简单|链表、递归|
