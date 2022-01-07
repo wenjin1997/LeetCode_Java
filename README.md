@@ -35,6 +35,7 @@
 |⭐️|[304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|二维区域和检索-矩阵不可变|[N304](/src/N304_RangeSumQuery2D_Immutable.java)|中等|设计、数组、矩阵、前缀和|
 |⭐️|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集II|[N350](/src/N350_IntersectionOfTwoArraysII.java)|简单|数组、哈希表、双指针、二分查找、排序|
 |⭐⭐⭐️|[438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|找到字符串中所有字母异位词|[N438](/src/N438_FindAllAnagramsInAString.java)|中等|哈希表、字符串、滑动窗口|
+|⭐⭐⭐️|[543](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|二叉树的直径|[N543](/src/N543_Solution.java)|简单|树、深度优先搜素、二叉树|
 |⭐️⭐⭐|[560](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[和为K的子数组](note/560.md)|[N560](/src/N560_SubarraySumEqualsK.java)|中等|数组、哈希表、前缀和|
 |⭐️⭐⭐⭐⭐|[567](https://leetcode-cn.com/problems/permutation-in-string/)|字符串的排列|[N567](/src/N567_PermutationInString.java)|中等|哈希表、双指针、字符串、滑动窗口|
 |✅️|[704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](/note/501-1000/704.md)|[N704](/src/question_501_1000/N704_BinarySearch.java)|简单|数组、二分查找|
