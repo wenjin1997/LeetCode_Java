@@ -15,6 +15,7 @@
 |⭐⭐⭐⭐⭐️|[76](https://leetcode-cn.com/problems/minimum-window-substring/)|最小覆盖子串|[N76](/src/N76_MinimumWindowSubstring.java)|困难|哈希表、字符串、滑动窗口|
 |✅️|[83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[删除排序链表中的重复元素](/note/81-90/83.md)|[N83](/src/question_81_90/RemoveDuplicatesFromSortedList.java)|简单|链表|
 |⭐️|[104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|二叉树的最大深度|[N104](/src/N104_Solution.java)|简单|树、深度优先搜索、广度优先搜索、二叉树|
+|⭐️|[114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|二叉树展开为链表|[N114](/src/N114_Solution.java)|中等|栈、树、深度优先搜索、链表、二叉树|
 |⭐|[116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|填充每个节点的下一个右侧节点指针|[N116](/src/N116_Solution.java)|中等|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[118](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|[N118](/src/question_1_500/N118_PascalTriangle.java)|简单|数组、动态规划|
 |⭐️|[144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|二叉树的前序遍历|[N144](/src/N144_Solution.java)|简单|栈、树、深度优先搜索、二叉树|
