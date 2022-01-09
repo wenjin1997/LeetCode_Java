@@ -16,6 +16,7 @@
 |✅️|[83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[删除排序链表中的重复元素](/note/81-90/83.md)|[N83](/src/question_81_90/RemoveDuplicatesFromSortedList.java)|😀|链表|
 |⭐️|[104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|二叉树的最大深度|[N104](/src/N104_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[105](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|从前序与中序遍历序列构造二叉树|[N105](/src/N105_Solution.java)|😐|树、数组、哈希表、分治、二叉树|
+|⭐️|[106](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|从中序与后序遍历序列构造二叉树|[N106](/src/N106_Solution.java)|😐|树、数组、哈希表、分治、二叉树|
 |⭐️|[114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|二叉树展开为链表|[N114](/src/N114_Solution.java)|😐|栈、树、深度优先搜索、链表、二叉树|
 |⭐|[116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|填充每个节点的下一个右侧节点指针|[N116](/src/N116_Solution.java)|😐|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[118](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|[N118](/src/question_1_500/N118_PascalTriangle.java)|😀|数组、动态规划|
