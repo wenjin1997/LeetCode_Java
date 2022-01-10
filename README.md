@@ -6,7 +6,7 @@
 |⭐⭐⭐|[3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串|[N3](/src/N3_LongestSubstringWithoutRepeatingCharacters.java)|😐|哈希表、字符串、滑动窗口|
 |⭐⭐|[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|删除链表的倒数第N个结点|[N19](/src/N19_Solution.java)|😐|链表、双指针|
 |✅|[20](https://leetcode-cn.com/problems/valid-parentheses/)|[有效的括号](/note/11-20/20.md)|[N20](/src/question_11_20/ValidParentheses.java)|😀|栈、字符串|
-|⭐️|[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](/note/21-30/21.md)|[N21](/src/question_21_30/MergeTwoSortedLists.java)、[ListNode](/src/question_21_30/ListNode.java)|😀|链表、递归|
+|⭐️|[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](/note/21-30/21.md)|[N21](/src/question_21_30/MergeTwoSortedLists.java)|😀|链表、递归|
 |🚩️|[23](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|合并K个升序链表|[N23](/src/N23_Solution.java)|😭|链表、分治、堆(优先队列)、归并排序|
 |⭐️|[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[删除有序数组中的重复项](/note/21-30/26.md)|[N26](/src/question_21_30/RemoveDuplicatesFromSortedArray.java)|😀|数组、双指针|
 |⭐️|[27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](/note/21-30/27.md)|[N27](/src/question_21_30/RemoveElement.java)|😀|数组、双指针|
@@ -21,13 +21,14 @@
 |⭐|[116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|填充每个节点的下一个右侧节点指针|[N116](/src/N116_Solution.java)|😐|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[118](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|[N118](/src/question_1_500/N118_PascalTriangle.java)|😀|数组、动态规划|
 |⭐️|[144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|二叉树的前序遍历|[N144](/src/N144_Solution.java)|😀|栈、树、深度优先搜索、二叉树|
-|⭐️|[155](https://leetcode-cn.com/problems/min-stack/)|[最小栈](/note/151-160/155.md)|[MinStack](/src/question_151_160/MinStack.java)|😀|栈、设计|
+|⭐️|[155](https://leetcode-cn.com/problems/min-stack/)|[最小栈](/note/151-160/155.md)|[N155](/src/question_151_160/MinStack.java)|😀|栈、设计|
 |⭐️|[189](https://leetcode-cn.com/problems/rotate-array/)|轮转数组|[189](/src/N189_Solution.java)|😐|数组、数学、双指针|
-|⭐️|[203](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[移除链表元素](/note/201-210/203.md)|[ListNode](/src/question_201_210/ListNode.java)、[N203](/src/question_201_210/RemoveLinkedListElements.java)|😀|链表、递归|
+|⭐️|[203](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[移除链表元素](/note/201-210/203.md)|[N203](/src/question_201_210/RemoveLinkedListElements.java)|😀|链表、递归|
 |⭐️|[206](https://leetcode-cn.com/problems/reverse-linked-list/)|[反转链表](/note/201-210/206.md)|[N206](/src/question_201_210/ReverseLinkedList.java)|😀|链表、递归|
-|⭐️|[225](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[用队列实现栈](/note/221-230/225.md)|[MyStack](/src/question_221_230/MyStack.java)|😀|栈、设计、队列|
+|⭐️|[225](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[用队列实现栈](/note/221-230/225.md)|[N225](/src/question_221_230/MyStack.java)|😀|栈、设计、队列|
 |🚩️|[226](https://leetcode-cn.com/problems/invert-binary-tree/)|翻转二叉树|[N226](/src/N226_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
-|✅️️|[232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[用栈实现队列](/note/231-240/232.md)|[MyQueue](/src/question_231_240/MyQueue.java)|😀|栈、设计、队列|
+|⭐|[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|二叉搜索树中第K小的元素|[N230](/src/N230_Solution.java)|😐|树、深度优先搜索、二叉搜索树、二叉树|
+|✅️️|[232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[用栈实现队列](/note/231-240/232.md)|[N232](/src/question_231_240/MyQueue.java)|😀|栈、设计、队列|
 |⭐️|[234](https://leetcode-cn.com/problems/palindrome-linked-list/)|回文链表|[N234](/src/question_1_500/N234_PalindromeLinkedList.java)|😀|栈、递归、链表、双指针|
 |⭐️|[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[删除链表中的节点](/note/231-240/237.md)|[N237](/src/question_231_240/DeleteNodeInALinkedList.java)|😀|链表|
 |⭐️|[238](https://leetcode-cn.com/problems/product-of-array-except-self/)|除自身以外数组的乘积|[N238](/src/question_1_500/N238_ProductOfArrayExceptSelf.java)|😐|数组、前缀和|
