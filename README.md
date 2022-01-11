@@ -47,6 +47,7 @@
 |⭐️|[652](https://leetcode-cn.com/problems/find-duplicate-subtrees/)|寻找重复的子树|[N652](/src/N652_Solution.java)|😐|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[654](https://leetcode-cn.com/problems/maximum-binary-tree/)|最大二叉树|[N654](/src/N654_Solution.java)|😐|栈、树、数组、分治、二叉树、单调栈|
 |⭐️|[700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|二叉搜索树中的搜索|[N700](/src/N700_Solution.java)|😀|树、二叉搜索树、二叉树|
+|⭐️|[701](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)|二叉搜索树中的插入操作|[N701](/src/N701_Solution.java)|😐|树、二叉搜索树、二叉树|
 |✅️|[704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](/note/501-1000/704.md)|[N704](/src/question_501_1000/N704_BinarySearch.java)|😀|数组、二分查找|
 |☹️️|[870](https://leetcode-cn.com/problems/advantage-shuffle/)|优势洗牌|[N870](/src/N870_Solution.java)|😐|贪心、数组、排序|
 |😀️⭐|[875](https://leetcode-cn.com/problems/koko-eating-bananas/)|爱吃香蕉的珂珂|[N875](/src/N875_Solution.java)|😐|数组、二分查找|
