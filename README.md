@@ -14,6 +14,7 @@
 |⭐⭐|[75](https://leetcode-cn.com/problems/sort-colors/)|[颜色分类](/note/31-80/75.md)|[N75](/src/question_31_80/N75_SortColors.java)|😐|数组、双指针、排序|
 |⭐⭐⭐⭐⭐️|[76](https://leetcode-cn.com/problems/minimum-window-substring/)|最小覆盖子串|[N76](/src/N76_MinimumWindowSubstring.java)|😭|哈希表、字符串、滑动窗口|
 |✅️|[83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[删除排序链表中的重复元素](/note/81-90/83.md)|[N83](/src/question_81_90/RemoveDuplicatesFromSortedList.java)|😀|链表|
+|⭐|[95](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)|不同的二叉搜索树II|[N95](/src/N95_Solution.java)|😐|树、二叉搜索树、动态规划、回溯、二叉树|
 |⭐|[96](https://leetcode-cn.com/problems/unique-binary-search-trees/)|不同的二叉搜索树|[N96](/src/N96_Solution.java)|😐|树、二叉搜索树、数学、动态规划、二叉树|
 |⭐|[98](https://leetcode-cn.com/problems/validate-binary-search-tree/)|验证二叉搜索树|[N98](/src/N98_Solution.java)|😐|树、深度优先搜索、二叉搜索树、二叉树|
 |⭐️|[104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|二叉树的最大深度|[N104](/src/N104_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
