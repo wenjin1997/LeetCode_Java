@@ -39,6 +39,7 @@
 |⭐️|[242](https://leetcode-cn.com/problems/valid-anagram/)|[有效的字母异位词](/note/1-500/242.md)|[N242](/src/question_1_500/N242_ValidAnagram.java)|😀|哈希表、字符串、排序|
 |✅️|[278](https://leetcode-cn.com/problems/first-bad-version/)|第一个错误的版本|[N278](/src/question_1_500/N278_FirstBadVersion.java)|😀|二分查找、交互|
 |⭐|[283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|[N283](/src/N283_Solution.java)|😀|数组、双指针|
+|⭐|[297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|二叉树的序列化与反序列化|[N297](/src/N297_Solution.java)|😐|树、深度优先搜索、广度优先搜索、设计、字符串、二叉树|
 |⭐️|[303](https://leetcode-cn.com/problems/range-sum-query-immutable/)|区域和检索-数组不可变|[N303](/src/N303_RangeSumQuery_Immutable.java)|😀|设计、数组、前缀和|
 |⭐️|[304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|二维区域和检索-矩阵不可变|[N304](/src/N304_RangeSumQuery2D_Immutable.java)|😐|设计、数组、矩阵、前缀和|
 |⭐️|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集II|[N350](/src/N350_IntersectionOfTwoArraysII.java)|😀|数组、哈希表、双指针、二分查找、排序|
