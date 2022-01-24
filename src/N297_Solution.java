@@ -37,6 +37,7 @@ class Codec1 {
         if (root == null) {
             sb.append(NULL).append(SEP);
             return;
+
         }
         /* 前序遍历位置 */
         sb.append(root.val).append(SEP);
@@ -78,3 +79,58 @@ class Codec1 {
 // Codec ser = new Codec();
 // Codec deser = new Codec();
 // TreeNode ans = deser.deserialize(ser.serialize(root));
+
+
+// 后序遍历方法
+class Codec2 {
+    String SEP = ",";
+    String NULL = "#";
+
+    // Encodes a tree to a single string.
+    /* 主函数，将二叉树序列化为字符串 */
+    public String serialize(TreeNode root) {
+        StringBuilder sb = new StringBuilder();
+        serialize(root, sb);
+        return sb.toString();
+    }
+
+    /* 辅助函数，将二叉树存入 StringBuilder */
+    void serialize(TreeNode root, StringBuilder sb) {
+        if (root == null) {
+            sb.append(NULL).append(SEP);
+            return;
+        }
+        serialize(root.left, sb);
+        serialize(root.right, sb);
+
+        /***** 后序遍历位置 *****/
+        sb.append(root.val).append(SEP);
+    }
+
+    // Decodes your encoded data to tree.
+    /* 主函数，将字符串反序列化为二叉树结构 */
+    public TreeNode deserialize(String data) {
+        LinkedList<String> nodes = new LinkedList<>();
+        for (String s : data.split(SEP)) {
+            nodes.addLast(s);
+        }
+        return deserialize(nodes);
+    }
+
+    /* 辅助函数，通过nodes列表构造二叉树 */
+    TreeNode deserialize(LinkedList<String> nodes) {
+        if (nodes.isEmpty()) {
+            return null;
+        }
+        String last = nodes.removeLast();
+        if (last.equals(NULL)) {
+            return null;
+        }
+        TreeNode root = new TreeNode(Integer.parseInt(last));
+
+        /* 现在构造左右子树，注意要先构造右子树，再构造左子树 */
+        root.right = deserialize(nodes);
+        root.left = deserialize(nodes);
+        return root;
+    }
+}
