@@ -20,6 +20,7 @@
 |⭐|[96](https://leetcode-cn.com/problems/unique-binary-search-trees/)|不同的二叉搜索树|[N96](/src/N96_Solution.java)|😐|树、二叉搜索树、数学、动态规划、二叉树|
 |⭐|[98](https://leetcode-cn.com/problems/validate-binary-search-tree/)|验证二叉搜索树|[N98](/src/N98_Solution.java)|😐|树、深度优先搜索、二叉搜索树、二叉树|
 |✅️|[100](https://leetcode-cn.com/problems/same-tree/)|相同的树|[N100](/src/N100_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
+|⭐|[101](https://leetcode-cn.com/problems/symmetric-tree/)|对称二叉树|[N101](/src/N101_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|二叉树的最大深度|[N104](/src/N104_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[105](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|从前序与中序遍历序列构造二叉树|[N105](/src/N105_Solution.java)|😐|树、数组、哈希表、分治、二叉树|
 |⭐️|[106](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|从中序与后序遍历序列构造二叉树|[N106](/src/N106_Solution.java)|😐|树、数组、哈希表、分治、二叉树|
