@@ -53,6 +53,7 @@
 |⭐|[297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|二叉树的序列化与反序列化|[N297](/src/N297_Solution.java)|😐|树、深度优先搜索、广度优先搜索、设计、字符串、二叉树|
 |⭐️|[303](https://leetcode-cn.com/problems/range-sum-query-immutable/)|区域和检索-数组不可变|[N303](/src/N303_RangeSumQuery_Immutable.java)|😀|设计、数组、前缀和|
 |⭐️|[304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|二维区域和检索-矩阵不可变|[N304](/src/N304_RangeSumQuery2D_Immutable.java)|😐|设计、数组、矩阵、前缀和|
+|⭐️|[326](https://leetcode-cn.com/problems/power-of-three/)|3的幂|[N326](/src/N326_Solution.java)|😀|递归、数学|
 |⭐️|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集II|[N350](/src/N350_IntersectionOfTwoArraysII.java)|😀|数组、哈希表、双指针、二分查找、排序|
 |⭐⭐⭐️|[438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|找到字符串中所有字母异位词|[N438](/src/N438_FindAllAnagramsInAString.java)|😐|哈希表、字符串、滑动窗口|
 |⭐⭐⭐️|[450](https://leetcode-cn.com/problems/delete-node-in-a-bst/)| 删除二叉搜索树中的节点|[N450](/src/N450_Solution.java)|😐|树、二叉搜索树、二叉树|
