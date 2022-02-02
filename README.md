@@ -19,6 +19,7 @@
 |⭐|[95](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)|不同的二叉搜索树II|[N95](/src/N95_Solution.java)|😐|树、二叉搜索树、动态规划、回溯、二叉树|
 |⭐|[96](https://leetcode-cn.com/problems/unique-binary-search-trees/)|不同的二叉搜索树|[N96](/src/N96_Solution.java)|😐|树、二叉搜索树、数学、动态规划、二叉树|
 |⭐|[98](https://leetcode-cn.com/problems/validate-binary-search-tree/)|验证二叉搜索树|[N98](/src/N98_Solution.java)|😐|树、深度优先搜索、二叉搜索树、二叉树|
+|⭐|[99](https://leetcode-cn.com/problems/recover-binary-search-tree/)|恢复二叉搜索树|[N99](/src/N99_Solution.java)|😐|树、深度优先搜索、二叉搜索树、二叉树|
 |✅️|[100](https://leetcode-cn.com/problems/same-tree/)|相同的树|[N100](/src/N100_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐|[101](https://leetcode-cn.com/problems/symmetric-tree/)|对称二叉树|[N101](/src/N101_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐|[102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|二叉树的层序遍历|[N102](/src/N102_Solution.java)|😐|树、广度优先搜索、二叉树|
