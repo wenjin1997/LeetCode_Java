@@ -12,6 +12,7 @@
 |⭐️|[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[删除有序数组中的重复项](/note/21-30/26.md)|[N26](/src/question_21_30/RemoveDuplicatesFromSortedArray.java)|😀|数组、双指针|
 |⭐️|[27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](/note/21-30/27.md)|[N27](/src/question_21_30/RemoveElement.java)|😀|数组、双指针|
 |🚩️|[34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|在排序数组中查找元素的第一和最后一个位置|[N34](/src/N34_Solution.java)|😀|数组、二分查找|
+|⭐|[53](https://leetcode-cn.com/problems/maximum-subarray/)|最大数组和|[N53](/src/N53_Solution.java)|😀|数组、分治、动态规划|
 |⭐⭐|[75](https://leetcode-cn.com/problems/sort-colors/)|[颜色分类](/note/31-80/75.md)|[N75](/src/question_31_80/N75_SortColors.java)|😐|数组、双指针、排序|
 |⭐⭐⭐⭐⭐️|[76](https://leetcode-cn.com/problems/minimum-window-substring/)|最小覆盖子串|[N76](/src/N76_MinimumWindowSubstring.java)|😭|哈希表、字符串、滑动窗口|
 |✅️|[83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[删除排序链表中的重复元素](/note/81-90/83.md)|[N83](/src/question_81_90/RemoveDuplicatesFromSortedList.java)|😀|链表|
