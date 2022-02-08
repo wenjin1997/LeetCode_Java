@@ -71,6 +71,7 @@
 |⭐️|[700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|二叉搜索树中的搜索|[N700](/src/N700_Solution.java)|😀|树、二叉搜索树、二叉树|
 |⭐️|[701](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)|二叉搜索树中的插入操作|[N701](/src/N701_Solution.java)|😐|树、二叉搜索树、二叉树|
 |✅️|[704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](/note/501-1000/704.md)|[N704](/src/question_501_1000/N704_BinarySearch.java)|😀|数组、二分查找|
+|⭐️|[739](https://leetcode-cn.com/problems/daily-temperatures/)|每日温度|[N739](/src/N739_Solution.java)|😐|栈、数组、单调栈|
 |☹️️|[870](https://leetcode-cn.com/problems/advantage-shuffle/)|优势洗牌|[N870](/src/N870_Solution.java)|😐|贪心、数组、排序|
 |😀️⭐|[875](https://leetcode-cn.com/problems/koko-eating-bananas/)|爱吃香蕉的珂珂|[N875](/src/N875_Solution.java)|😐|数组、二分查找|
 |⭐️|[876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[链表的中间结点](/note/871-880/876.md)|[N876](/src/question_871_880/MiddleOfTheLinkedList.java)|😀|链表、双指针|
