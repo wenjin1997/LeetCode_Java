@@ -61,6 +61,7 @@
 |⭐️|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集II|[N350](/src/N350_IntersectionOfTwoArraysII.java)|😀|数组、哈希表、双指针、二分查找、排序|
 |⭐⭐⭐️|[438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|找到字符串中所有字母异位词|[N438](/src/N438_FindAllAnagramsInAString.java)|😐|哈希表、字符串、滑动窗口|
 |⭐⭐⭐️|[450](https://leetcode-cn.com/problems/delete-node-in-a-bst/)| 删除二叉搜索树中的节点|[N450](/src/N450_Solution.java)|😐|树、二叉搜索树、二叉树|
+|⭐️|[496](https://leetcode-cn.com/problems/next-greater-element-i/)|下一个更大元素I|[N496](/src/N496_Solution.java)|😀|栈、数组、哈希表、单调栈|
 |⭐️|[538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)|把二叉搜索树转换为累加树|[N538](/src/N538_Solution.java)|😐|树、深度优先搜索、二叉搜索树、二叉树|
 |⭐⭐⭐️|[543](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|二叉树的直径|[N543](/src/N543_Solution.java)|😀|树、深度优先搜素、二叉树|
 |⭐️⭐⭐|[560](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[和为K的子数组](note/560.md)|[N560](/src/N560_SubarraySumEqualsK.java)|😐|数组、哈希表、前缀和|
