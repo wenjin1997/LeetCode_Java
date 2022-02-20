@@ -56,6 +56,7 @@
 |✅️|[278](https://leetcode-cn.com/problems/first-bad-version/)|第一个错误的版本|[N278](/src/question_1_500/N278_FirstBadVersion.java)|😀|二分查找、交互|
 |⭐|[283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|[N283](/src/N283_Solution.java)|😀|数组、双指针|
 |⭐|[297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|二叉树的序列化与反序列化|[N297](/src/N297_Solution.java)|😐|树、深度优先搜索、广度优先搜索、设计、字符串、二叉树|
+|⭐|[300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|最长递增子序列|[N300](/src/N300_Solution.java)|😐|数组、二分查找、动态规划|
 |⭐️|[303](https://leetcode-cn.com/problems/range-sum-query-immutable/)|区域和检索-数组不可变|[N303](/src/N303_RangeSumQuery_Immutable.java)|😀|设计、数组、前缀和|
 |⭐️|[304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|二维区域和检索-矩阵不可变|[N304](/src/N304_RangeSumQuery2D_Immutable.java)|😐|设计、数组、矩阵、前缀和|
 |⭐⭐⭐️|[322](https://leetcode-cn.com/problems/coin-change/)|零钱兑换|[N322](/src/N322_Solution.java)|😐|广度优先搜索、数组、动态规划|
