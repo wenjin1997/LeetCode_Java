@@ -63,7 +63,8 @@
 |⭐️|[326](https://leetcode-cn.com/problems/power-of-three/)|3的幂|[N326](/src/N326_Solution.java)|😀|递归、数学|
 |⭐️|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集II|[N350](/src/N350_IntersectionOfTwoArraysII.java)|😀|数组、哈希表、双指针、二分查找、排序|
 |⭐⭐⭐️|[438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|找到字符串中所有字母异位词|[N438](/src/N438_FindAllAnagramsInAString.java)|😐|哈希表、字符串、滑动窗口|
-|⭐⭐⭐️|[450](https://leetcode-cn.com/problems/delete-node-in-a-bst/)| 删除二叉搜索树中的节点|[N450](/src/N450_Solution.java)|😐|树、二叉搜索树、二叉树|
+|⭐⭐⭐️|[450](https://leetcode-cn.com/problems/delete-node-in-a-bst/)|删除二叉搜索树中的节点|[N450](/src/N450_Solution.java)|😐|树、二叉搜索树、二叉树|
+|⭐⭐⭐️|[494](https://leetcode-cn.com/problems/target-sum/)|目标和|[N494](/src/N494_Solution.java)|😐|数组、动态规划、回溯|
 |⭐️|[496](https://leetcode-cn.com/problems/next-greater-element-i/)|下一个更大元素I|[N496](/src/N496_Solution.java)|😀|栈、数组、哈希表、单调栈|
 |⭐️|[509](https://leetcode-cn.com/problems/fibonacci-number/)|斐波那契数|[N509](/src/N509_Solution.java)|😀|递归、记忆化搜索、数学、动态规划|
 |⭐️|[538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)|把二叉搜索树转换为累加树|[N538](/src/N538_Solution.java)|😐|树、深度优先搜索、二叉搜索树、二叉树|
