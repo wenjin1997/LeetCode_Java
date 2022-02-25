@@ -12,7 +12,7 @@
 |⭐️|[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[删除有序数组中的重复项](/note/21-30/26.md)|[N26](/src/question_21_30/RemoveDuplicatesFromSortedArray.java)|😀|数组、双指针|
 |⭐️|[27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](/note/21-30/27.md)|[N27](/src/question_21_30/RemoveElement.java)|😀|数组、双指针|
 |🚩️|[34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|在排序数组中查找元素的第一和最后一个位置|[N34](/src/N34_Solution.java)|😀|数组、二分查找|
-|⭐|[53](https://leetcode-cn.com/problems/maximum-subarray/)|最大数组和|[N53](/src/N53_Solution.java)|😀|数组、分治、动态规划|
+|⭐|[53](https://leetcode-cn.com/problems/maximum-subarray/)|最大子数组和|[N53](/src/N53_Solution.java)|😀|数组、分治、动态规划|
 |✅️|[66](https://leetcode-cn.com/problems/plus-one/)|加一|[N66](/src/N66_Solution.java)|😀|数组、数学|
 |⭐⭐⭐⭐|[72](https://leetcode-cn.com/problems/edit-distance/)|最小编辑距离|[N72](/src/N72_Solution.java)|😭|字符串、动态规划|
 |⭐⭐|[75](https://leetcode-cn.com/problems/sort-colors/)|[颜色分类](/note/31-80/75.md)|[N75](/src/question_31_80/N75_SortColors.java)|😐|数组、双指针、排序|
@@ -89,5 +89,6 @@
 |☹️️|[1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|在D天内送达包裹的能力|[N1011](/src/N1011_Solution.java)|😐|贪心、数组、二分查找|
 |⭐️|[1094](https://leetcode-cn.com/problems/car-pooling/)|拼车|[N1094](/src/N1094_CarPooling.java)|😐|数组、前缀和、排序、模拟、堆(优先队列)|
 |⭐️|[1109](https://leetcode-cn.com/problems/corporate-flight-bookings/)|航班预订统计|[N1109](/src/N1109_CorporateFlightBookings.java)|😐|数组、前缀和|
+|⭐️|[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|最长公共子序列|[N1143](/src/N1143_Solution.java)|😐|字符串、动态规划|
 |✅|[1991](https://leetcode.com/problems/find-the-middle-index-in-array/)|[Find the Middle Index in Array](/note/1991-2000/1991.md)| |😀|Array,Prefix Sum|
 |⭐️⭐️|[面试题17-14](https://leetcode-cn.com/problems/smallest-k-lcci/)|[最小K个数](/note/面试题17/面试题17-14.最小K个数.md)|[N17-14](/src/面试题17/N14_SmallestKLCCI.java)|😐|数组、分治、快速选择、排序、堆（优先队列）|
