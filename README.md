@@ -73,6 +73,7 @@
 |⭐⭐⭐️|[543](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|二叉树的直径|[N543](/src/N543_Solution.java)|😀|树、深度优先搜素、二叉树|
 |⭐️⭐⭐|[560](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[和为K的子数组](note/560.md)|[N560](/src/N560_SubarraySumEqualsK.java)|😐|数组、哈希表、前缀和|
 |⭐️⭐⭐⭐⭐|[567](https://leetcode-cn.com/problems/permutation-in-string/)|字符串的排列|[N567](/src/N567_PermutationInString.java)|😐|哈希表、双指针、字符串、滑动窗口|
+|⭐️|[583](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)|两个字符串的删除操作|[N583](/src/N583_Solution.java)|😐|字符串、动态规划|
 |⭐️|[617](https://leetcode-cn.com/problems/merge-two-binary-trees/)|合并二叉树|[N617](/src/N617_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[652](https://leetcode-cn.com/problems/find-duplicate-subtrees/)|寻找重复的子树|[N652](/src/N652_Solution.java)|😐|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[654](https://leetcode-cn.com/problems/maximum-binary-tree/)|最大二叉树|[N654](/src/N654_Solution.java)|😐|栈、树、数组、分治、二叉树、单调栈|
