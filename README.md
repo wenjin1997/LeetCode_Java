@@ -69,6 +69,7 @@
 |⭐⭐⭐️|[494](https://leetcode-cn.com/problems/target-sum/)|目标和|[N494](/src/N494_Solution.java)|😐|数组、动态规划、回溯|
 |⭐️|[496](https://leetcode-cn.com/problems/next-greater-element-i/)|下一个更大元素I|[N496](/src/N496_Solution.java)|😀|栈、数组、哈希表、单调栈|
 |⭐️|[509](https://leetcode-cn.com/problems/fibonacci-number/)|斐波那契数|[N509](/src/N509_Solution.java)|😀|递归、记忆化搜索、数学、动态规划|
+|⭐️|[516](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)|最长回文子序列|[N516](/src/N516_Solution.java)|😐|字符串、动态规划|
 |⭐️|[538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)|把二叉搜索树转换为累加树|[N538](/src/N538_Solution.java)|😐|树、深度优先搜索、二叉搜索树、二叉树|
 |⭐⭐⭐️|[543](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|二叉树的直径|[N543](/src/N543_Solution.java)|😀|树、深度优先搜素、二叉树|
 |⭐️⭐⭐|[560](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[和为K的子数组](note/560.md)|[N560](/src/N560_SubarraySumEqualsK.java)|😐|数组、哈希表、前缀和|
