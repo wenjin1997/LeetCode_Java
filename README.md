@@ -64,6 +64,7 @@
 |⭐️|[326](https://leetcode-cn.com/problems/power-of-three/)|3的幂|[N326](/src/N326_Solution.java)|😀|递归、数学|
 |⭐️|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集II|[N350](/src/N350_IntersectionOfTwoArraysII.java)|😀|数组、哈希表、双指针、二分查找、排序|
 |🚩️|[354](https://leetcode-cn.com/problems/russian-doll-envelopes/)|俄罗斯套娃信封问题|[N354](/src/N354_Solution.java)|😭|数组、二分查找、动态规划、排序|
+|⭐|[416](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|分割等和子集|[N416](/src/N416_Solution.java)|😐|数组、动态规划|
 |⭐⭐⭐️|[438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|找到字符串中所有字母异位词|[N438](/src/N438_FindAllAnagramsInAString.java)|😐|哈希表、字符串、滑动窗口|
 |⭐⭐⭐️|[450](https://leetcode-cn.com/problems/delete-node-in-a-bst/)|删除二叉搜索树中的节点|[N450](/src/N450_Solution.java)|😐|树、二叉搜索树、二叉树|
 |⭐⭐⭐️|[494](https://leetcode-cn.com/problems/target-sum/)|目标和|[N494](/src/N494_Solution.java)|😐|数组、动态规划、回溯|
