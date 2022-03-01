@@ -5,6 +5,7 @@
 |----|----|----|----|----|----|
 |⭐|[1](https://leetcode-cn.com/problems/two-sum/)|两数之和|[N1](/src/N1_Solution.java)|😀|数组、哈希表|
 |⭐⭐⭐|[3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串|[N3](/src/N3_LongestSubstringWithoutRepeatingCharacters.java)|😐|哈希表、字符串、滑动窗口|
+|⭐|[5](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|[N5](/src/N5_Solution.java)|😐|字符串、动态规划|
 |⭐⭐|[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|删除链表的倒数第N个结点|[N19](/src/N19_Solution.java)|😐|链表、双指针|
 |✅|[20](https://leetcode-cn.com/problems/valid-parentheses/)|[有效的括号](/note/11-20/20.md)|[N20](/src/question_11_20/ValidParentheses.java)|😀|栈、字符串|
 |⭐️|[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](/note/21-30/21.md)|[N21](/src/question_21_30/MergeTwoSortedLists.java)|😀|链表、递归|
