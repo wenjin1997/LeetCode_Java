@@ -17,6 +17,7 @@
 |⭐|[53](https://leetcode-cn.com/problems/maximum-subarray/)|最大子数组和|[N53](/src/N53_Solution.java)|😀|数组、分治、动态规划|
 |⭐|[64](https://leetcode-cn.com/problems/minimum-path-sum/)|最小路径和|[N64](/src/N64_Solution.java)|😐|数组、动态规划、矩阵|
 |✅️|[66](https://leetcode-cn.com/problems/plus-one/)|加一|[N66](/src/N66_Solution.java)|😀|数组、数学|
+|✅️|[70](https://leetcode-cn.com/problems/climbing-stairs/)|动态转移|[N70](/src/N70_Solution.java)|😀|记忆化搜索、数学、动态规划|
 |⭐⭐⭐⭐|[72](https://leetcode-cn.com/problems/edit-distance/)|最小编辑距离|[N72](/src/N72_Solution.java)|😭|字符串、动态规划|
 |⭐⭐|[75](https://leetcode-cn.com/problems/sort-colors/)|[颜色分类](/note/31-80/75.md)|[N75](/src/question_31_80/N75_SortColors.java)|😐|数组、双指针、排序|
 |⭐⭐⭐⭐⭐️|[76](https://leetcode-cn.com/problems/minimum-window-substring/)|最小覆盖子串|[N76](/src/N76_MinimumWindowSubstring.java)|😭|哈希表、字符串、滑动窗口|
