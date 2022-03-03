@@ -40,6 +40,7 @@
 |⭐️|[114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|二叉树展开为链表|[N114](/src/N114_Solution.java)|😐|栈、树、深度优先搜索、链表、二叉树|
 |⭐|[116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|填充每个节点的下一个右侧节点指针|[N116](/src/N116_Solution.java)|😐|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[118](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|[N118](/src/question_1_500/N118_PascalTriangle.java)|😀|数组、动态规划|
+|⭐️|[121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|买卖股票的最佳时机|[N121](/src/N121_Solution.java)|😀|数组、动态规划|
 |⭐️|[124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|二叉树中的最大路径和|[N124](/src/N124_Solution.java)|☹️|树、深度优先搜索、动态规划、二叉树|
 |⭐️|[144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|二叉树的前序遍历|[N144](/src/N144_Solution.java)|😀|栈、树、深度优先搜索、二叉树|
 |⭐️|[145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|二叉树的后序遍历|[N145](/src/N145_Solution.java)|😀|栈、树、深度优先搜索、二叉树|
