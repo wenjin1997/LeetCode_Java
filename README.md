@@ -56,6 +56,7 @@
 |⭐️|[189](https://leetcode-cn.com/problems/rotate-array/)|轮转数组|[189](/src/N189_Solution.java)|😐|数组、数学、双指针|
 |⭐️|[203](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[移除链表元素](/note/201-210/203.md)|[N203](/src/question_201_210/RemoveLinkedListElements.java)|😀|链表、递归|
 |⭐️|[206](https://leetcode-cn.com/problems/reverse-linked-list/)|[反转链表](/note/201-210/206.md)|[N206](/src/question_201_210/ReverseLinkedList.java)|😀|链表、递归|
+|⭐️|[217](https://leetcode-cn.com/problems/contains-duplicate/)|存在重复元素|[N217](/src/N217_Solution.java)|😀|数组、哈希表、排序|
 |⭐️|[222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)|完全二叉树的节点个数|[N222](/src/N222_Solution.java)|😐|树、深度优先搜索、二分查找、二叉树|
 |⭐️|[225](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[用队列实现栈](/note/221-230/225.md)|[N225](/src/question_221_230/MyStack.java)|😀|栈、设计、队列|
 |🚩️|[226](https://leetcode-cn.com/problems/invert-binary-tree/)|翻转二叉树|[N226](/src/N226_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
