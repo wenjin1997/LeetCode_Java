@@ -77,6 +77,7 @@
 |⭐️|[309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|最佳买卖股票时机含冷冻期|[N309](/src/N309_Solution.java)|😐|数组、动态规划|
 |⭐⭐⭐️|[322](https://leetcode-cn.com/problems/coin-change/)|零钱兑换|[N322](/src/N322_Solution.java)|😐|广度优先搜索、数组、动态规划|
 |⭐️|[326](https://leetcode-cn.com/problems/power-of-three/)|3的幂|[N326](/src/N326_Solution.java)|😀|递归、数学|
+|⭐️|[347](https://leetcode-cn.com/problems/top-k-frequent-elements/)|前K个高频元素|[N347](/src/N347_Solution.java)|😐|数组、哈希表、分治、桶排序、计数、快速排序、排序、堆(优先队列)|
 |⭐️|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集II|[N350](/src/N350_IntersectionOfTwoArraysII.java)|😀|数组、哈希表、双指针、二分查找、排序|
 |🚩️|[354](https://leetcode-cn.com/problems/russian-doll-envelopes/)|俄罗斯套娃信封问题|[N354](/src/N354_Solution.java)|😭|数组、二分查找、动态规划、排序|
 |⭐|[416](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|分割等和子集|[N416](/src/N416_Solution.java)|😐|数组、动态规划|
