@@ -51,6 +51,7 @@
 |⭐️|[124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|二叉树中的最大路径和|[N124](/src/N124_Solution.java)|☹️|树、深度优先搜索、动态规划、二叉树|
 |⭐️|[144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|二叉树的前序遍历|[N144](/src/N144_Solution.java)|😀|栈、树、深度优先搜索、二叉树|
 |⭐️|[145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|二叉树的后序遍历|[N145](/src/N145_Solution.java)|😀|栈、树、深度优先搜索、二叉树|
+|⭐️|[146](https://leetcode-cn.com/problems/lru-cache/)|LRU缓存|[N146](/src/question146/N146_Solution.java)|😐|设计、哈希表、链表、双向链表|
 |⭐️|[148](https://leetcode-cn.com/problems/sort-list/)|排序链表|[N148](/src/N148_Solution.java)|😐|链表、双指针、分治、排序、归并排序|
 |⭐️|[155](https://leetcode-cn.com/problems/min-stack/)|[最小栈](/note/151-160/155.md)|[N155](/src/question_151_160/MinStack.java)|😀|栈、设计|
 |⭐️|[173](https://leetcode-cn.com/problems/binary-search-tree-iterator/)|二叉搜索树迭代器|[N173](/src/N173_Solution.java)|😐|栈、树、设计、二叉搜索树、二叉树、迭代器|
