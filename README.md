@@ -83,6 +83,7 @@
 |⭐️|[347](https://leetcode-cn.com/problems/top-k-frequent-elements/)|前K个高频元素|[N347](/src/N347_Solution.java)|😐|数组、哈希表、分治、桶排序、计数、快速排序、排序、堆(优先队列)|
 |⭐️|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|两个数组的交集II|[N350](/src/N350_IntersectionOfTwoArraysII.java)|😀|数组、哈希表、双指针、二分查找、排序|
 |🚩️|[354](https://leetcode-cn.com/problems/russian-doll-envelopes/)|俄罗斯套娃信封问题|[N354](/src/N354_Solution.java)|😭|数组、二分查找、动态规划、排序|
+|🚩️|[373](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/)|查找和最小的K对数字|[N373](/src/N373_Solution.java)|😐|数组、堆(优先队列)|
 |⭐|[416](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|分割等和子集|[N416](/src/N416_Solution.java)|😐|数组、动态规划|
 |⭐⭐⭐️|[438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|找到字符串中所有字母异位词|[N438](/src/N438_FindAllAnagramsInAString.java)|😐|哈希表、字符串、滑动窗口|
 |⭐⭐⭐️|[450](https://leetcode-cn.com/problems/delete-node-in-a-bst/)|删除二叉搜索树中的节点|[N450](/src/N450_Solution.java)|😐|树、二叉搜索树、二叉树|
