@@ -17,6 +17,7 @@
 |🚩️|[34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|在排序数组中查找元素的第一和最后一个位置|[N34](/src/N34_Solution.java)|😀|数组、二分查找|
 |🚩️|[44](https://leetcode-cn.com/problems/wildcard-matching/)|通配符匹配|[N44](/src/N44_Solution.java)|😭|贪心、递归、字符串、动态规划|
 |⭐|[53](https://leetcode-cn.com/problems/maximum-subarray/)|最大子数组和|[N53](/src/N53_Solution.java)|😀|数组、分治、动态规划|
+|⭐|[56](https://leetcode-cn.com/problems/merge-intervals/)|合并区间|[N56](/src/N56_Solution.java)|😐|数组、排序|
 |⭐|[62](https://leetcode-cn.com/problems/unique-paths/)|不同路径|[N62](/src/N62_Solution.java)|😐|数组、动态规划、组合数学|
 |⭐|[64](https://leetcode-cn.com/problems/minimum-path-sum/)|最小路径和|[N64](/src/N64_Solution.java)|😐|数组、动态规划、矩阵|
 |✅️|[66](https://leetcode-cn.com/problems/plus-one/)|加一|[N66](/src/N66_Solution.java)|😀|数组、数学|
