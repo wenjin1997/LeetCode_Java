@@ -115,6 +115,7 @@
 |⭐️|[912](https://leetcode-cn.com/problems/sort-an-array/)|排序数组|[N912](/src/N912_Solution.java)|😐|数组、分治、桶排序、计数排序、基数排序、排序、堆(优先队列)、归并排序|
 |⭐️|[931](https://leetcode-cn.com/problems/minimum-falling-path-sum/)|下降路径最小和|[N931](/src/N931_Solution.java)|😐|数组、动态规划、矩阵|
 |☹️|[933](https://leetcode-cn.com/problems/number-of-recent-calls/)|最近的请求次数|[N933](/src/N933_Solution.java)|😀|设计、队列、数据流|
+|⭐|[986](https://leetcode-cn.com/problems/interval-list-intersections/)|区间列表的交集|[N986](/src/N986_Solution.java)|😐|数组、双指针|
 |☹️️|[1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|在D天内送达包裹的能力|[N1011](/src/N1011_Solution.java)|😐|贪心、数组、二分查找|
 |⭐️|[1094](https://leetcode-cn.com/problems/car-pooling/)|拼车|[N1094](/src/N1094_CarPooling.java)|😐|数组、前缀和、排序、模拟、堆(优先队列)|
 |⭐️|[1109](https://leetcode-cn.com/problems/corporate-flight-bookings/)|航班预订统计|[N1109](/src/N1109_CorporateFlightBookings.java)|😐|数组、前缀和|
