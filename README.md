@@ -56,6 +56,7 @@
 |⭐️|[148](https://leetcode-cn.com/problems/sort-list/)|排序链表|[N148](/src/N148_Solution.java)|😐|链表、双指针、分治、排序、归并排序|
 |⭐️|[155](https://leetcode-cn.com/problems/min-stack/)|[最小栈](/note/151-160/155.md)|[N155](/src/question_151_160/MinStack.java)|😀|栈、设计|
 |⭐️|[165](https://leetcode-cn.com/problems/compare-version-numbers/)|比较版本号|[N165](/src/N165_Solution.java)|😐|双指针、字符串|
+|⭐️|[169](https://leetcode-cn.com/problems/majority-element/)|多数元素|[N169](/src/N169_Solution.java)|😀|数组、哈希表、分治、计数、排序|
 |⭐️|[173](https://leetcode-cn.com/problems/binary-search-tree-iterator/)|二叉搜索树迭代器|[N173](/src/N173_Solution.java)|😐|栈、树、设计、二叉搜索树、二叉树、迭代器|
 |⭐️|[188](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)|买卖股票的最佳时机IV|[N188](/src/N188_Solution.java)|😭|数组、动态规划|
 |⭐️|[189](https://leetcode-cn.com/problems/rotate-array/)|轮转数组|[189](/src/N189_Solution.java)|😐|数组、数学、双指针|
