@@ -77,6 +77,7 @@
 |⭐️|[268](https://leetcode-cn.com/problems/missing-number/)|丢失的数字|[N268](/src/N268_Solution.java)|😀|位运算、数组、哈希表、数学、排序|
 |✅️|[278](https://leetcode-cn.com/problems/first-bad-version/)|第一个错误的版本|[N278](/src/question_1_500/N278_FirstBadVersion.java)|😀|二分查找、交互|
 |⭐|[283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|[N283](/src/N283_Solution.java)|😀|数组、双指针|
+|⭐|[295](https://leetcode-cn.com/problems/find-median-from-data-stream/)|数据流的中位数|[N295](/src/N295_Solution.java)|😭|设计、双指针、数据流、排序、堆（优先队列）|
 |⭐|[297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|二叉树的序列化与反序列化|[N297](/src/N297_Solution.java)|😐|树、深度优先搜索、广度优先搜索、设计、字符串、二叉树|
 |⭐|[300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|最长递增子序列|[N300](/src/N300_Solution.java)|😐|数组、二分查找、动态规划|
 |⭐️|[303](https://leetcode-cn.com/problems/range-sum-query-immutable/)|区域和检索-数组不可变|[N303](/src/N303_RangeSumQuery_Immutable.java)|😀|设计、数组、前缀和|
