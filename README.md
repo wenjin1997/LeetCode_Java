@@ -74,6 +74,7 @@
 |⭐️|[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[删除链表中的节点](/note/231-240/237.md)|[N237](/src/question_231_240/DeleteNodeInALinkedList.java)|😀|链表|
 |⭐️|[238](https://leetcode-cn.com/problems/product-of-array-except-self/)|除自身以外数组的乘积|[N238](/src/question_1_500/N238_ProductOfArrayExceptSelf.java)|😐|数组、前缀和|
 |⭐️|[242](https://leetcode-cn.com/problems/valid-anagram/)|[有效的字母异位词](/note/1-500/242.md)|[N242](/src/question_1_500/N242_ValidAnagram.java)|😀|哈希表、字符串、排序|
+|⭐️|[268](https://leetcode-cn.com/problems/missing-number/)|丢失的数字|[N268](/src/N268_Solution.java)|😀|位运算、数组、哈希表、数学、排序|
 |✅️|[278](https://leetcode-cn.com/problems/first-bad-version/)|第一个错误的版本|[N278](/src/question_1_500/N278_FirstBadVersion.java)|😀|二分查找、交互|
 |⭐|[283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|[N283](/src/N283_Solution.java)|😀|数组、双指针|
 |⭐|[297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|二叉树的序列化与反序列化|[N297](/src/N297_Solution.java)|😐|树、深度优先搜索、广度优先搜索、设计、字符串、二叉树|
