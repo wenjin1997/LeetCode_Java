@@ -19,6 +19,7 @@
 |⭐|[46](https://leetcode-cn.com/problems/permutations/)|全排列|[N46](/src/N46_Solution.java)|😐|数组、回溯|
 |🚩️|[49](https://leetcode-cn.com/problems/group-anagrams/)|字母异位词|[N49](/src/N49_Solution.java)|😐|哈希表、字符串、排序|
 |🚩️|[51](https://leetcode-cn.com/problems/n-queens/)|N皇后|[N51](/src/N51_Solution.java)|😭|数组、回溯|
+|🚩️|[52](https://leetcode-cn.com/problems/n-queens-ii/)|N皇后II|[N52](/src/N52_Solution.java)|😭|回溯|
 |⭐|[53](https://leetcode-cn.com/problems/maximum-subarray/)|最大子数组和|[N53](/src/N53_Solution.java)|😀|数组、分治、动态规划|
 |⭐|[56](https://leetcode-cn.com/problems/merge-intervals/)|合并区间|[N56](/src/N56_Solution.java)|😐|数组、排序|
 |⭐|[62](https://leetcode-cn.com/problems/unique-paths/)|不同路径|[N62](/src/N62_Solution.java)|😐|数组、动态规划、组合数学|
