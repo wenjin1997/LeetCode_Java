@@ -113,6 +113,7 @@
 |⭐️|[617](https://leetcode-cn.com/problems/merge-two-binary-trees/)|合并二叉树|[N617](/src/N617_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[652](https://leetcode-cn.com/problems/find-duplicate-subtrees/)|寻找重复的子树|[N652](/src/N652_Solution.java)|😐|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐️|[654](https://leetcode-cn.com/problems/maximum-binary-tree/)|最大二叉树|[N654](/src/N654_Solution.java)|😐|栈、树、数组、分治、二叉树、单调栈|
+|⭐️|[698](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|划分为k个相等的子集|[N698](/src/N698_Solution.java)|😐|位运算、记忆化搜索、数组、动态规划、回溯、状态压缩|
 |⭐️|[700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|二叉搜索树中的搜索|[N700](/src/N700_Solution.java)|😀|树、二叉搜索树、二叉树|
 |⭐️|[701](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)|二叉搜索树中的插入操作|[N701](/src/N701_Solution.java)|😐|树、二叉搜索树、二叉树|
 |✅️|[704](https://leetcode-cn.com/problems/binary-search/)|[二分查找](/note/501-1000/704.md)|[N704](/src/question_501_1000/N704_BinarySearch.java)|😀|数组、二分查找|
