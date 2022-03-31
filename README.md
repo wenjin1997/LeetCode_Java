@@ -85,6 +85,7 @@
 |⭐️|[225](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[用队列实现栈](/note/221-230/225.md)|[N225](/src/question_221_230/MyStack.java)|😀|栈、设计、队列|
 |🚩️|[226](https://leetcode-cn.com/problems/invert-binary-tree/)|翻转二叉树|[N226](/src/N226_Solution.java)|😀|树、深度优先搜索、广度优先搜索、二叉树|
 |⭐|[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|二叉搜索树中第K小的元素|[N230](/src/N230_Solution.java)|😐|树、深度优先搜索、二叉搜索树、二叉树|
+|⭐|[231](https://leetcode-cn.com/problems/power-of-two/)|2的幂|[N231](/src/N231_Solution.java)|😀|位运算、递归、数字|
 |✅️️|[232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[用栈实现队列](/note/231-240/232.md)|[N232](/src/question_231_240/MyQueue.java)|😀|栈、设计、队列|
 |⭐️|[234](https://leetcode-cn.com/problems/palindrome-linked-list/)|回文链表|[N234](/src/question_1_500/N234_PalindromeLinkedList.java)|😀|栈、递归、链表、双指针|
 |⭐️|[236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|二叉树的最近公共祖先|[N236](/src/N236_Solution.java)|😐|树、深度优先搜索、二叉树|
