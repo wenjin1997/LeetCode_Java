@@ -64,6 +64,7 @@
 |⭐️|[122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|买卖股票的最佳时机II|[N122](/src/N122_Solution.java)|😐|贪心、数组、动态规划|
 |⭐️|[123](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)|买卖股票的最佳时机III|[N123](/src/N123_Solution.java)|😭|数组、动态规划|
 |⭐️|[124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|二叉树中的最大路径和|[N124](/src/N124_Solution.java)|☹️|树、深度优先搜索、动态规划、二叉树|
+|⭐️|[136](https://leetcode-cn.com/problems/single-number/)|只出现一次的数字|[N136](/src/N136_Solution.java)|😀️|位运算、数组|
 |⭐️|[141](https://leetcode-cn.com/problems/linked-list-cycle/)|环形链表|[N141](/src/N141_Solution.java)|😀|哈希表、链表、双指针|
 |⭐️|[144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|二叉树的前序遍历|[N144](/src/N144_Solution.java)|😀|栈、树、深度优先搜索、二叉树|
 |⭐️|[145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|二叉树的后序遍历|[N145](/src/N145_Solution.java)|😀|栈、树、深度优先搜索、二叉树|
@@ -94,6 +95,7 @@
 |⭐️|[242](https://leetcode-cn.com/problems/valid-anagram/)|[有效的字母异位词](/note/1-500/242.md)|[N242](/src/question_1_500/N242_ValidAnagram.java)|😀|哈希表、字符串、排序|
 |⭐️|[268](https://leetcode-cn.com/problems/missing-number/)|丢失的数字|[N268](/src/N268_Solution.java)|😀|位运算、数组、哈希表、数学、排序|
 |✅️|[278](https://leetcode-cn.com/problems/first-bad-version/)|第一个错误的版本|[N278](/src/question_1_500/N278_FirstBadVersion.java)|😀|二分查找、交互|
+|✅️|[279](https://leetcode-cn.com/problems/perfect-squares/)|完全平方数|[N279](/src/N279_Solution.java)|😐|广度优先搜索、数学、动态规划|
 |⭐|[283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|[N283](/src/N283_Solution.java)|😀|数组、双指针|
 |⭐|[295](https://leetcode-cn.com/problems/find-median-from-data-stream/)|数据流的中位数|[N295](/src/N295_Solution.java)|😭|设计、双指针、数据流、排序、堆（优先队列）|
 |⭐|[297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|二叉树的序列化与反序列化|[N297](/src/N297_Solution.java)|😐|树、深度优先搜索、广度优先搜索、设计、字符串、二叉树|
