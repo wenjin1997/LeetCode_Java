@@ -81,6 +81,8 @@
 |⭐️|[202](https://leetcode-cn.com/problems/happy-number/)|快乐数|[202](/src/N202_Solution.java)|😀|哈希表、数学、双指针|
 |⭐️|[203](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[移除链表元素](/note/201-210/203.md)|[N203](/src/question_201_210/RemoveLinkedListElements.java)|😀|链表、递归|
 |⭐️|[206](https://leetcode-cn.com/problems/reverse-linked-list/)|[反转链表](/note/201-210/206.md)|[N206](/src/question_201_210/ReverseLinkedList.java)|😀|链表、递归|
+|⭐️|[207](https://leetcode-cn.com/problems/course-schedule/)|课程表|[N207](/src/N207_Solution.java)|😐|深度优先搜索、广度优先搜索、图、拓扑排序|
+|⭐️|[210](https://leetcode-cn.com/problems/course-schedule-ii/)|课程表II|[N210](/src/N210_Solution.java)|😐|深度优先搜索、广度优先搜索、图、拓扑排序|
 |⭐️|[215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|数组中的第K个最大元素|[N215](/src/N215_Solution.java)|😐|数组、分治、快速选择、排序、堆（优先队列）|
 |⭐️|[217](https://leetcode-cn.com/problems/contains-duplicate/)|存在重复元素|[N217](/src/N217_Solution.java)|😀|数组、哈希表、排序|
 |⭐️|[222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)|完全二叉树的节点个数|[N222](/src/N222_Solution.java)|😐|树、深度优先搜索、二分查找、二叉树|
