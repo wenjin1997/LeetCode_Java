@@ -138,6 +138,7 @@
 |⭐️|[712](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)|两个字符串的最小ASCII删除和|[N712](/src/N712_Solution.java)|😐|字符串、动态规划|
 |⭐️|[714](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|买卖股票的最佳时机含手续费|[N714](/src/N714_Solution.java)|😐|贪心、数组、动态规划|
 |⭐️|[739](https://leetcode-cn.com/problems/daily-temperatures/)|每日温度|[N739](/src/N739_Solution.java)|😐|栈、数组、单调栈|
+|⭐️|[752](https://leetcode-cn.com/problems/open-the-lock/)|打开转盘锁|[N752](/src/N752_Solution.java)|😐|广度优先搜索、数组、哈希表、字符串|
 |⭐️|[797](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)|所有可能的路径|[N797](/src/N797_Solution.java)|😐|深度优先搜索、广度优先搜索、图、回溯|
 |☹️️|[870](https://leetcode-cn.com/problems/advantage-shuffle/)|优势洗牌|[N870](/src/N870_Solution.java)|😐|贪心、数组、排序|
 |😀️⭐|[875](https://leetcode-cn.com/problems/koko-eating-bananas/)|爱吃香蕉的珂珂|[N875](/src/N875_Solution.java)|😐|数组、二分查找|
