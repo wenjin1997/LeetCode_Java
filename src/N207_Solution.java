@@ -1,4 +1,12 @@
-class Solution {
+import java.util.LinkedList;
+import java.util.List;
+
+/**
+ * @author 文进
+ * @version 1.0
+ * 207.课程表
+ */
+class N207_Solution {
     // 记录一次递归堆栈中的节点
     boolean[] onPath;
     // 记录遍历过的节点，防止走回头路
