@@ -146,6 +146,7 @@
 |⭐️|[876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[链表的中间结点](/note/871-880/876.md)|[N876](/src/question_871_880/MiddleOfTheLinkedList.java)|😀|链表、双指针|
 |⭐️|[886](https://leetcode-cn.com/problems/possible-bipartition/)|可能的二分法|[N886](/src/N886_Solution.java)|😐|深度优先搜索、广度优先搜索、并查集、图|
 |⭐️|[889](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|根据前序和后序遍历构造二叉树|[N889](/src/N889_Solution.java)|😐|树、数组、哈希表、分治、二叉树|
+|⭐️|[990](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|等式方程的可满足性|[N990](/src/N990_Solution.java)|😐|并查集、图、数组、字符串|
 |⭐️|[912](https://leetcode-cn.com/problems/sort-an-array/)|排序数组|[N912](/src/N912_Solution.java)|😐|数组、分治、桶排序、计数排序、基数排序、排序、堆(优先队列)、归并排序|
 |⭐️|[931](https://leetcode-cn.com/problems/minimum-falling-path-sum/)|下降路径最小和|[N931](/src/N931_Solution.java)|😐|数组、动态规划、矩阵|
 |☹️|[933](https://leetcode-cn.com/problems/number-of-recent-calls/)|最近的请求次数|[N933](/src/N933_Solution.java)|😀|设计、队列、数据流|
