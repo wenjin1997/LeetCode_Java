@@ -138,6 +138,7 @@
 |⭐️|[712](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)|两个字符串的最小ASCII删除和|[N712](/src/N712_Solution.java)|😐|字符串、动态规划|
 |⭐️|[714](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|买卖股票的最佳时机含手续费|[N714](/src/N714_Solution.java)|😐|贪心、数组、动态规划|
 |⭐️|[739](https://leetcode-cn.com/problems/daily-temperatures/)|每日温度|[N739](/src/N739_Solution.java)|😐|栈、数组、单调栈|
+|⭐️|[743](https://leetcode-cn.com/problems/network-delay-time/)|网络延迟时间|[N743](/src/N743_Solution.java)|😐|深度优先搜索、广度优先搜索、图、最短路、堆（优先队列）|
 |⭐️|[752](https://leetcode-cn.com/problems/open-the-lock/)|打开转盘锁|[N752](/src/N752_Solution.java)|😐|广度优先搜索、数组、哈希表、字符串|
 |⭐️|[785](https://leetcode-cn.com/problems/is-graph-bipartite/)|判断二分图|[N785](/src/N785_Solution.java)|😐|深度优先搜索、广度优先搜索、并查集、图|
 |⭐️|[797](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)|所有可能的路径|[N797](/src/N797_Solution.java)|😐|深度优先搜索、广度优先搜索、图、回溯|
@@ -146,11 +147,11 @@
 |⭐️|[876](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[链表的中间结点](/note/871-880/876.md)|[N876](/src/question_871_880/MiddleOfTheLinkedList.java)|😀|链表、双指针|
 |⭐️|[886](https://leetcode-cn.com/problems/possible-bipartition/)|可能的二分法|[N886](/src/N886_Solution.java)|😐|深度优先搜索、广度优先搜索、并查集、图|
 |⭐️|[889](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|根据前序和后序遍历构造二叉树|[N889](/src/N889_Solution.java)|😐|树、数组、哈希表、分治、二叉树|
-|⭐️|[990](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|等式方程的可满足性|[N990](/src/N990_Solution.java)|😐|并查集、图、数组、字符串|
 |⭐️|[912](https://leetcode-cn.com/problems/sort-an-array/)|排序数组|[N912](/src/N912_Solution.java)|😐|数组、分治、桶排序、计数排序、基数排序、排序、堆(优先队列)、归并排序|
 |⭐️|[931](https://leetcode-cn.com/problems/minimum-falling-path-sum/)|下降路径最小和|[N931](/src/N931_Solution.java)|😐|数组、动态规划、矩阵|
 |☹️|[933](https://leetcode-cn.com/problems/number-of-recent-calls/)|最近的请求次数|[N933](/src/N933_Solution.java)|😀|设计、队列、数据流|
 |⭐|[986](https://leetcode-cn.com/problems/interval-list-intersections/)|区间列表的交集|[N986](/src/N986_Solution.java)|😐|数组、双指针|
+|⭐️|[990](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)|等式方程的可满足性|[N990](/src/N990_Solution.java)|😐|并查集、图、数组、字符串|
 |☹️️|[1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|在D天内送达包裹的能力|[N1011](/src/N1011_Solution.java)|😐|贪心、数组、二分查找|
 |⭐️|[1094](https://leetcode-cn.com/problems/car-pooling/)|拼车|[N1094](/src/N1094_CarPooling.java)|😐|数组、前缀和、排序、模拟、堆(优先队列)|
 |⭐️|[1109](https://leetcode-cn.com/problems/corporate-flight-bookings/)|航班预订统计|[N1109](/src/N1109_CorporateFlightBookings.java)|😐|数组、前缀和|
