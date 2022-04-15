@@ -157,6 +157,7 @@
 |⭐️|[1109](https://leetcode-cn.com/problems/corporate-flight-bookings/)|航班预订统计|[N1109](/src/N1109_CorporateFlightBookings.java)|😐|数组、前缀和|
 |⭐️|[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|最长公共子序列|[N1143](/src/N1143_Solution.java)|😐|字符串、动态规划|
 |⭐️|[1288](https://leetcode-cn.com/problems/remove-covered-intervals/)|删除被覆盖区间|[N1288](/src/N1288_Solution.java)|😐|数组、排序|
+|⭐️|[1514](https://leetcode-cn.com/problems/path-with-maximum-probability/)|概率最大的路径|[N1514](/src/N1514_Solution.java)|😐|图、最短路、堆（优先队列）|
 |⭐️|[1631](https://leetcode-cn.com/problems/path-with-minimum-effort/)|最小体力消耗路径|[N1631](/src/N1631_Solution.java)|😐|深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列）|
 |✅|[1991](https://leetcode.com/problems/find-the-middle-index-in-array/)|[Find the Middle Index in Array](/note/1991-2000/1991.md)| |😀|Array,Prefix Sum|
 |⭐️⭐️|[面试题17-14](https://leetcode-cn.com/problems/smallest-k-lcci/)|[最小K个数](/note/面试题17/面试题17-14.最小K个数.md)|[N17-14](/src/面试题17/N14_SmallestKLCCI.java)|😐|数组、分治、快速选择、排序、堆（优先队列）|
