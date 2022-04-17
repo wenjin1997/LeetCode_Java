@@ -33,6 +33,7 @@
 |✅️|[66](https://leetcode-cn.com/problems/plus-one/)|加一|[N66](/src/N66_Solution.java)|😀|数组、数学|
 |✅️|[70](https://leetcode-cn.com/problems/climbing-stairs/)|爬楼梯|[N70](/src/N70_Solution.java)|😀|记忆化搜索、数学、动态规划|
 |⭐⭐⭐⭐|[72](https://leetcode-cn.com/problems/edit-distance/)|最小编辑距离|[N72](/src/N72_Solution.java)|😭|字符串、动态规划|
+|⭐⭐|[74](https://leetcode-cn.com/problems/search-a-2d-matrix/)|搜索二维矩阵|[N74](/src/N74_Solution.java)|😐|数组、二分查找、矩阵|
 |⭐⭐|[75](https://leetcode-cn.com/problems/sort-colors/)|[颜色分类](/note/31-80/75.md)|[N75](/src/question_31_80/N75_SortColors.java)|😐|数组、双指针、排序|
 |⭐⭐⭐⭐⭐️|[76](https://leetcode-cn.com/problems/minimum-window-substring/)|最小覆盖子串|[N76](/src/N76_MinimumWindowSubstring.java)|😭|哈希表、字符串、滑动窗口|
 |⭐|[77](https://leetcode-cn.com/problems/combinations/)|组合|[N77](/src/N77_Solution.java)|😐|数组、回溯|
