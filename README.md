@@ -9,6 +9,7 @@
 |⭐|[10](https://leetcode-cn.com/problems/regular-expression-matching/)|正则表达式匹配|[N10](/src/N10_Solution.java)|😭|递归、字符串、动态规划|
 |⭐|[15](https://leetcode-cn.com/problems/3sum/)|三数之和|[N15](/src/N15_Solution.java)|😐|数组、双指针、排序|
 |⭐|[17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|[电话号码的字母组合](/note/17.md)|[N17](/src/N17_Solution.java)|😐|哈希表、字符串、回溯|
+|⭐|[18](https://leetcode-cn.com/problems/4sum/)|四数之和|[N18](/src/18.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.java)|😐|数组、双指针、排序|
 |⭐⭐|[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|删除链表的倒数第N个结点|[N19](/src/N19_Solution.java)|😐|链表、双指针|
 |✅|[20](https://leetcode-cn.com/problems/valid-parentheses/)|[有效的括号](/note/11-20/20.md)|[N20](/src/question_11_20/ValidParentheses.java)|😀|栈、字符串|
 |⭐️|[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](/note/21-30/21.md)|[N21](/src/question_21_30/MergeTwoSortedLists.java)|😀|链表、递归|
