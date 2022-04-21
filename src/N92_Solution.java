@@ -7,6 +7,7 @@ public class N92_Solution {
 }
 
 class N92_Solution1 {
+    // 递归法
     public ListNode reverseBetween(ListNode head, int m, int n) {
         // base case
         if (m == 1) {
@@ -35,3 +36,43 @@ class N92_Solution1 {
     }
 }
 
+class N92_Solution2 {
+    // 迭代法
+    public ListNode reverseBetween(ListNode head, int left, int right) {
+        if (left == right) return head;
+        ListNode cur = head;
+        ListNode leftNode = head;
+        int curIndex = 1;
+
+        while (curIndex < left) {
+            leftNode = cur;
+            cur = cur.next;
+            curIndex++;
+        }
+
+        ListNode prev = leftNode;
+        ListNode curHead = cur;
+
+        while (curIndex < right) {
+            ListNode next = cur.next;
+            cur.next = prev;
+            prev = cur;
+            cur = next;
+            curIndex++;
+        }
+
+        ListNode rightNode = cur.next;
+        cur.next = prev;
+
+        curHead.next = rightNode;
+
+        // 如果左边节点是第一个，就要返回 cur
+        if (left == 1) {
+            return cur;
+        } else {
+            leftNode.next = cur;
+        }
+
+        return head;
+    }
+}
