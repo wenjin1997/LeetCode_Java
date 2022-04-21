@@ -98,7 +98,7 @@
 |⭐|[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|二叉搜索树中第K小的元素|[N230](/src/N230_Solution.java)|😐|树、深度优先搜索、二叉搜索树、二叉树|
 |⭐|[231](https://leetcode-cn.com/problems/power-of-two/)|2的幂|[N231](/src/N231_Solution.java)|😀|位运算、递归、数字|
 |✅️️|[232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[用栈实现队列](/note/231-240/232.md)|[N232](/src/question_231_240/MyQueue.java)|😀|栈、设计、队列|
-|⭐️|[234](https://leetcode-cn.com/problems/palindrome-linked-list/)|回文链表|[N234](/src/question_1_500/N234_PalindromeLinkedList.java)|😀|栈、递归、链表、双指针|
+|⭐️|[234](https://leetcode-cn.com/problems/palindrome-linked-list/)|回文链表|[N234_1](/src/question_1_500/N234_PalindromeLinkedList.java)、[N234_2](/src/234.回文链表.java)|😀|栈、递归、链表、双指针|
 |⭐️|[236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|二叉树的最近公共祖先|[N236](/src/N236_Solution.java)|😐|树、深度优先搜索、二叉树|
 |⭐️|[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[删除链表中的节点](/note/231-240/237.md)|[N237](/src/question_231_240/DeleteNodeInALinkedList.java)|😀|链表|
 |⭐️|[238](https://leetcode-cn.com/problems/product-of-array-except-self/)|除自身以外数组的乘积|[N238](/src/question_1_500/N238_ProductOfArrayExceptSelf.java)|😐|数组、前缀和|
