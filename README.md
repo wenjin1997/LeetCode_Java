@@ -15,6 +15,7 @@
 |⭐️|[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](/note/21-30/21.md)|[N21](/src/question_21_30/MergeTwoSortedLists.java)|😀|链表、递归|
 |⭐️|[22](https://leetcode-cn.com/problems/generate-parentheses/)|[括号生成](/note/22.md)|[N22](/src/N22_Solution.java)|😐|字符串、动态规划、回溯|
 |🚩️|[23](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|合并K个升序链表|[N23](/src/N23_Solution.java)|😭|链表、分治、堆(优先队列)、归并排序|
+|🚩️|[25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|K个一组翻转链表|[N25](/src/25.k-个一组翻转链表.java)|😭|递归、链表|
 |⭐️|[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[删除有序数组中的重复项](/note/21-30/26.md)|[N26](/src/question_21_30/RemoveDuplicatesFromSortedArray.java)|😀|数组、双指针|
 |⭐️|[27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](/note/21-30/27.md)|[N27](/src/question_21_30/RemoveElement.java)|😀|数组、双指针|
 |🚩️|[34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|在排序数组中查找元素的第一和最后一个位置|[N34](/src/N34_Solution.java)|😀|数组、二分查找|
