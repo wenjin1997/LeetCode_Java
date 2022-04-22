@@ -4,6 +4,7 @@
 |🚩|#|📒|💻|😊|🏷️|
 |----|----|----|----|----|----|
 |⭐|[1](https://leetcode-cn.com/problems/two-sum/)|两数之和|[N1](/src/N1_Solution.java)|😀|数组、哈希表|
+|⭐|[2](https://leetcode-cn.com/problems/add-two-numbers/)|两数相加|[N2](/src/2.两数相加.java)|😐|递归、链表、数学|
 |⭐⭐⭐|[3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串|[N3](/src/N3_LongestSubstringWithoutRepeatingCharacters.java)|😐|哈希表、字符串、滑动窗口|
 |⭐|[5](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|[N5](/src/N5_Solution.java)|😐|字符串、动态规划|
 |⭐|[10](https://leetcode-cn.com/problems/regular-expression-matching/)|正则表达式匹配|[N10](/src/N10_Solution.java)|😭|递归、字符串、动态规划|
