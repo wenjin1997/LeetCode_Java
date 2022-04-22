@@ -40,6 +40,7 @@
 |⭐⭐⭐⭐⭐️|[76](https://leetcode-cn.com/problems/minimum-window-substring/)|最小覆盖子串|[N76](/src/N76_MinimumWindowSubstring.java)|😭|哈希表、字符串、滑动窗口|
 |⭐|[77](https://leetcode-cn.com/problems/combinations/)|组合|[N77](/src/N77_Solution.java)|😐|数组、回溯|
 |⭐|[78](https://leetcode-cn.com/problems/subsets/)|子集|[N78](/src/N78_Solution.java)|😐|位运算、数组、回溯|
+|⭐|[82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|删除排序链表中的重复元素II|[N82](/src/82.删除排序链表中的重复元素-ii.java)|😐|链表、双指针|
 |✅️|[83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[删除排序链表中的重复元素](/note/81-90/83.md)|[N83](/src/question_81_90/RemoveDuplicatesFromSortedList.java)、[N83-2](/src/83.删除排序链表中的重复元素.java)|😀|链表|
 |⭐️|[88](https://leetcode-cn.com/problems/merge-sorted-array/)|合并两个有序数组|[N88](/src/N88_Solution.java)|😀|数组、双指针、排序|
 |⭐️|[90](https://leetcode-cn.com/problems/subsets-ii/)|子集II|[N90](/src/N90_Solution.java)|😐|位运算、数组、回溯|
