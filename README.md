@@ -23,6 +23,7 @@
 |🚩️|[37](https://leetcode-cn.com/problems/sudoku-solver/)|[解数独](/note/37.md)|[N37](/src/N37_Solution.java)|😭|数组、回溯、矩阵|
 |⭐|[39](https://leetcode-cn.com/problems/combination-sum/)|组合总和|[N39](/src/N39_Solution.java)|😐|数组、回溯|
 |⭐|[40](https://leetcode-cn.com/problems/combination-sum-ii/)|组合总和II|[N40](/src/N40_Solution.java)|😐|数组、回溯|
+|⭐|[42](https://leetcode-cn.com/problems/trapping-rain-water/)|接雨水|[N42](/src/42.接雨水.java)|😐|栈、数组、双指针、动态规划、单调栈|
 |🚩️|[44](https://leetcode-cn.com/problems/wildcard-matching/)|通配符匹配|[N44](/src/N44_Solution.java)|😭|贪心、递归、字符串、动态规划|
 |⭐|[46](https://leetcode-cn.com/problems/permutations/)|全排列|[N46](/src/N46_Solution.java)|😐|数组、回溯|
 |⭐|[47](https://leetcode-cn.com/problems/permutations-ii/)|全排列II|[N47](/src/N47_Solution.java)|😐|数组、回溯|
