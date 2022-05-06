@@ -6,7 +6,8 @@
 
 // @lc code=start
 class Solution {
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
+    // 方法一：深度优先搜索
+    public boolean canFinish1(int numCourses, int[][] prerequisites) {
         onPath = new boolean[numCourses];
         visited = new boolean[numCourses];
         List<Integer>[] graph = buildGraph(numCourses, prerequisites);
@@ -50,6 +51,43 @@ class Solution {
         }
         return graph;
     }
+
+    // 方法二：广度优先搜索
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+        // 建图
+        List<Integer>[] graph = buildGraph(numCourses, prerequisites);
+        // 构建入度数组
+        int[] indegree = new int[numCourses];
+        for (int[] edge : prerequisites) {
+            int from = edge[1], to = edge[0];
+            // 节点 to 的入度加一
+            indegree[to]++;
+        }
+        // 根据入度初始化队列
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) {
+                // 如果入度为0，则加入队列
+                q.offer(i);
+            }
+        }
+        int count = 0; // 记录遍历的节点的个数
+        while (!q.isEmpty()) {
+            // 弹出节点并将它指向的节点的入度减一
+            int cur = q.poll();
+            count++;
+            for (int next : graph[cur]) {
+                indegree[next]--;
+                // 如果入度为0，则加入队列中
+                if (indegree[next] == 0) {
+                    q.offer(next);
+                }
+            }
+        }
+        // 如果所有节点都遍历过，则说明没有形成环
+        return count == numCourses;
+    }
+    
 }
 // @lc code=end
 
