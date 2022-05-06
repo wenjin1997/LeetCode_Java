@@ -182,3 +182,4 @@
 |⭐️⭐️|[面试题17-14](https://leetcode-cn.com/problems/smallest-k-lcci/)|[最小K个数](/note/面试题17/面试题17-14.最小K个数.md)|[N17-14](/src/面试题17/N14_SmallestKLCCI.java)|😐|数组、分治、快速选择、排序、堆（优先队列）|
 |✅️|[6016](https://leetcode-cn.com/problems/cells-in-a-range-on-an-excel-sheet/)|Excel表中某个范围内的单元格|[N6016](/src/weeklyContent/N6016_Solution.java)|😀||
 |⭐️|[剑指offer 03](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|数组中重复的数字|[3](/src/lcof/N3_Solution.java)|😀|数组、哈希表、排序|
+|⭐️|[剑指offerII 115](https://leetcode-cn.com/problems/ur2n8P/)|重建序列|[115](/src/%E5%89%91%E6%8C%87OfferII%20115.%E9%87%8D%E5%BB%BA%E5%BA%8F%E5%88%97.java)|😐|图、拓扑排序、数组|
