@@ -9,6 +9,29 @@ import java.util.*;
  */
 public class N3_Solution {
     /*
+       方法：原地交换
+       时间复杂度：O(n)
+       空间复杂度：O(1)
+     */
+    public int findRepeatNumber(int[] nums) {
+        int i = 0;
+        while(i < nums.length) {
+            // 找到下标和元素不相等的指标
+            while (i < nums.length && nums[i] == i) i++;
+            // 下标和元素不相等
+            if (nums[i] == nums[nums[i]]) {
+                return nums[i];
+            } else {
+                // 交换
+                int temp = nums[i];
+                nums[i] = nums[nums[i]];
+                nums[temp] = temp;
+            }
+        }
+        return -1;
+    }
+
+    /*
     * 方法一：排序
     * 时间复杂度：O(nlogn)
     * 空间复杂度：O(1)
