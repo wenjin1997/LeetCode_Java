@@ -183,5 +183,6 @@
 |✅️|[6016](https://leetcode-cn.com/problems/cells-in-a-range-on-an-excel-sheet/)|Excel表中某个范围内的单元格|[N6016](/src/weeklyContent/N6016_Solution.java)|😀||
 |⭐️|[剑指offer 03](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|数组中重复的数字|[3](/src/lcof/N3_Solution.java)|😀|数组、哈希表、排序|
 |⭐️|[剑指offer 04](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)|二维数组中的查找|[4](/src/%E5%89%91%E6%8C%87Offer%2004.%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.java)|😐|数组、二分查找、分治、矩阵|
+|✅️|[剑指offer 05](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)|替换空格|[5](/src/%E5%89%91%E6%8C%87Offer%2005.%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.java)|😀|字符串|
 |⭐️|[剑指offer 09](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)|用两个栈实现队列|[9](/src/%E5%89%91%E6%8C%87Offer%2009.%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.java)|😀|栈、设计、队列|
 |⭐️|[剑指offerII 115](https://leetcode-cn.com/problems/ur2n8P/)|重建序列|[115](/src/%E5%89%91%E6%8C%87OfferII%20115.%E9%87%8D%E5%BB%BA%E5%BA%8F%E5%88%97.java)|😐|图、拓扑排序、数组|
