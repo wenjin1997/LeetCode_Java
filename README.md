@@ -27,6 +27,7 @@
 |🚩️|[44](https://leetcode-cn.com/problems/wildcard-matching/)|通配符匹配|[N44](/src/N44_Solution.java)|😭|贪心、递归、字符串、动态规划|
 |⭐|[46](https://leetcode-cn.com/problems/permutations/)|全排列|[N46](/src/N46_Solution.java)|😐|数组、回溯|
 |⭐|[47](https://leetcode-cn.com/problems/permutations-ii/)|全排列II|[N47](/src/N47_Solution.java)|😐|数组、回溯|
+|⭐|[48](https://leetcode.cn/problems/rotate-image/)|旋转图像|[N47](/src/48.旋转图像.java)|😐|数组、数学、矩阵|
 |🚩️|[49](https://leetcode-cn.com/problems/group-anagrams/)|字母异位词|[N49](/src/N49_Solution.java)|😐|哈希表、字符串、排序|
 |🚩️|[51](https://leetcode-cn.com/problems/n-queens/)|N皇后|[N51](/src/N51_Solution.java)|😭|数组、回溯|
 |🚩️|[52](https://leetcode-cn.com/problems/n-queens-ii/)|N皇后II|[N52](/src/N52_Solution.java)|😭|回溯|
