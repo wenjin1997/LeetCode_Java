@@ -118,6 +118,7 @@
 |✅️|[278](https://leetcode-cn.com/problems/first-bad-version/)|第一个错误的版本|[N278](/src/question_1_500/N278_FirstBadVersion.java)|😀|二分查找、交互|
 |✅️|[279](https://leetcode-cn.com/problems/perfect-squares/)|完全平方数|[N279](/src/N279_Solution.java)|😐|广度优先搜索、数学、动态规划|
 |⭐|[283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|[N283](/src/N283_Solution.java)|😀|数组、双指针|
+|⭐|[287](https://leetcode.cn/problems/find-the-duplicate-number/)|寻找重复数|[N287](/src/287.寻找重复数.java)|😐|位运算、数组、双指针、二分查找|
 |⭐|[295](https://leetcode-cn.com/problems/find-median-from-data-stream/)|数据流的中位数|[N295](/src/N295_Solution.java)|😭|设计、双指针、数据流、排序、堆（优先队列）|
 |⭐|[297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)|二叉树的序列化与反序列化|[N297](/src/N297_Solution.java)|😐|树、深度优先搜索、广度优先搜索、设计、字符串、二叉树|
 |⭐|[300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|最长递增子序列|[N300](/src/N300_Solution.java)|😐|数组、二分查找、动态规划|
