@@ -19,6 +19,7 @@
 |🚩️|[25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|K个一组翻转链表|[N25](/src/25.k-个一组翻转链表.java)|😭|递归、链表|
 |⭐️|[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[删除有序数组中的重复项](/note/21-30/26.md)|[N26](/src/question_21_30/RemoveDuplicatesFromSortedArray.java)|😀|数组、双指针|
 |⭐️|[27](https://leetcode-cn.com/problems/remove-element/)|[移除元素](/note/21-30/27.md)|[N27](/src/question_21_30/RemoveElement.java)|😀|数组、双指针|
+|🚩️|[33](https://leetcode.cn/problems/search-in-rotated-sorted-array/)|搜索旋转排序数组|[N33](/src/33.搜索旋转排序数组.java)|😐|数组、二分查找|
 |🚩️|[34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|在排序数组中查找元素的第一和最后一个位置|[N34](/src/N34_Solution.java)|😀|数组、二分查找|
 |🚩️|[37](https://leetcode-cn.com/problems/sudoku-solver/)|[解数独](/note/37.md)|[N37](/src/N37_Solution.java)|😭|数组、回溯、矩阵|
 |⭐|[39](https://leetcode-cn.com/problems/combination-sum/)|组合总和|[N39](/src/N39_Solution.java)|😐|数组、回溯|
